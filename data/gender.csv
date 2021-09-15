@@ -1,488 +1,488 @@
-type;Straßenname;Tag ODER Personenname;Geschafft?;source;gender
-way;Ernst-Neeb-Straße;Q100574;ja;wikidata;M
-way;Dietrich-Gresemund-Weg;Q102525;ja;wikidata;M
-way;Fichteplatz;Q102585;ja;wikidata;M
-way;Schottstraße;Q103925;ja;wikidata;M
-way;Niklas-Vogt-Straße;Q103942;ja;wikidata;M
-way;Stresemann-Ufer;Q103955;ja;wikidata;M
-way;Wilhelm-Holzamer-Straße;Q104139;ja;wikidata;M
-way;Adam-Karrillon-Straße ;Q104186;ja;wikidata;M
-way;Carlo-Mierendorff-Straße;Q1042305;ja;wikidata;M
-way;Chana-Kahn-Straße;Q104807517;ja;wikidata;F
-way;Ludwig-Schwamb-Straße;Q104979;ja;wikidata;M
-way;Hans-Böckler-Straße;Q105130;ja;wikidata;M
-way;Pestalozziplatz;Q105428;ja;wikidata;M
-way;Pestalozzistraße;Q105428;ja;wikidata;M
-way;Georg-Moller-Passage ;Q106276;ja;wikidata;M
-way;Dantestraße;Q1067;ja;wikidata;M
-way;Goßlerweg;Q106847;ja;wikidata;M
-way;Catharina-Lothary-Straße;Q107557482;ja;wikidata;F
-way;Christianstraße;Q1080417;ja;wikidata;M
-way;Neumannstraße;Q108411;ja;wikidata;M
-way;Joh.-Friedrich-v.-Pfeiffer-Weg;Q108704;ja;wikidata;M
-way;Sophie-Grosch-Straße;Q1095183;ja;wikidata;F
-way;Wilhelm-Busch-Straße;Q109540;ja;wikidata;M
-way;Dagobertstraße;Q109860;ja;wikidata;M
-way;Lauterenstraße ;Q1100017;ja;wikidata;M
-way;Wallaustraße;Q110139;ja;wikidata;M
-way;Kathinka-Zitz-Weg ;Q110567;ja;wikidata;F
-way;Görzstraße;Q110730;ja;wikidata;M
-way;Adelungstraße ;Q110917;ja;wikidata;M
-way;Nino-Erné-Straße;Q111000;ja;wikidata;M
-way;Maler-Becker-Straße;Q111052;ja;wikidata;M
-way;Eduard-Kreyßig-Ufer;Q1113424;ja;wikidata;M
-way;Kreyßigstraße;Q1113424;ja;wikidata;M
-way;Rosmerthastraße;Q1118976;ja;wikidata;F
-way;Lucy-Hillebrand-Straße;Q112007;ja;wikidata;F
-way;Curiestraße;Q11297474 (Marie und Pierre Curie);ja;wikidata;"""+"""
-way;Johannes-von-Müller-Weg;Q116032;ja;wikidata;M
-way;Thomas-Jefferson-Straße;Q11812;ja;wikidata;M
-way;Wilhelmiterstraße;Q119512;ja;wikidata;M
-way;Müller-Thurgau-Straße;Q120437;ja;wikidata;M
-way;Henri-Dunant-Straße;Q12091;ja;wikidata;M
-way;Stolze-Schrey-Straße;Q124806;ja;wikidata;M
-way;Rudolf-Diesel-Straße;Q12674;ja;wikidata;M
-way;Friedrich-Schneider-Straße;Q1269391;ja;wikidata;M
-way;Oechsnerstraße;Q1270967;ja;wikidata;M
-way;Quintinsstraße;Q1293541;ja;wikidata;M
-way;Gaßnerallee;Q1312496;ja;wikidata;M
-way;Sömmerringplatz;Q132197;ja;wikidata;M
-way;Sömmerringstraße;Q132197;ja;wikidata;M
-way;Elise-Haas-Weg;Q1330628;ja;wikidata;F
-way;Bastion Martin;Q133704;ja;wikidata;M
-way;Martinsstraße;Q133704;ja;wikidata;M
-way;Sebastian-Bach-Straße;Q1339;ja;wikidata;M
-way;Erich-Dombrowski-Straße;Q1352088;ja;wikidata;M
-way;Rathenaustraße;Q135645;ja;wikidata;M
-way;Eugen-Salomon-Straße;Q1372858;ja;wikidata;M
-way;Alfred-Mumbächer-Straße;Q1382401;ja;wikidata;M
-way;Franziska-Kessel-Straße;Q1389045;ja;wikidata;F
-way;Jacob-Goedecker-Straße;Q1390536;ja;wikidata;M
-way;Augustusplatz;Q1405;ja;wikidata;M
-way;Augustusstraße;Q1405;ja;wikidata;M
-way;Goetzstraße;Q1405324;ja;wikidata;M
-way;Domitianstraße;Q1423;ja;wikidata;M
-way;Käthe-Kollwitz-Straße;Q142472;ja;wikidata;F
-way;Trajanstraße;Q1425;ja;wikidata;M
-way;Göttelmannstraße;Q1437467;ja;wikidata;M
-way;Göttelmannstraße;Q1437467;ja;wikidata;M
-way;Dr.-Falk-Weg;Q1446714;ja;wikidata;M
-way;Duesbergweg;Q1449889;ja;wikidata;M
-way;Lennigstraße;Q1460722;ja;wikidata;M
-way;Heinrich-Schrohe-Straße ;Q1462617;ja;wikidata;M
-way;Fritz-Bockius-Straße;Q1465759;ja;wikidata;M
-way;Fritz-Ohlhof-Straße;Q1467704;ja;wikidata;M
-way;Nackstraße;Q1506012;ja;wikidata;M
-way;Kaiserstraße ;Q150652;ja;wikidata;M
-way;Kaiserstraße ;Q150652;ja;wikidata;M
-way;Wilhelmsstraße;Q150652;ja;wikidata;M
-way;Kaiserstraße;Q150652;ja;wikidata;M
-way;Kaiserstraße;Q150652;ja;wikidata;M
-way;An der Karlsschanze;Q150665;ja;wikidata;M
-way;Richard-Wagner-Straße;Q1511;ja;wikidata;M
-way;Rochusstraße;Q152457;ja;wikidata;M
-way;Am Fort Josef;Q152480;ja;wikidata;M
-way;Georg-Büchner-Straße;Q154014;ja;wikidata;M
-way;Büchnerallee;Q154014;ja;wikidata;M
-way;Lortzingstraße;Q154203;ja;wikidata;M
-way;Grünewaldstraße;Q154338;ja;wikidata;M
-way;Adolf-Kolping-Straße ;Q15448837;ja;wikidata;M
-way;Stephan-Karl-Michel-Str.;Q15456369;ja;wikidata;M
-way;Herderplatz;Q155547;ja;wikidata;M
-way;Alicenplatz;Q155566;ja;wikidata;F
-way;Alicenstraße;Q155566;ja;wikidata;F
-way;Alicenplatz;Q155566;ja;wikidata;F
-way;Alicenstraße;Q155566;ja;wikidata;F
-way;Alicenstraße;Q155566;ja;wikidata;F
-way;Alicenstraße;Q155566;ja;wikidata;F
-way;Dr.-Günter-Storch-Platz;Q1561111;in OSM nicht angelegt;wikidata;M
-way;Luisenstraße;Q156723;ja;wikidata;F
-way;Drususstraße;Q156778;ja;wikidata;M
-way;Drususwall;Q156778;ja;wikidata;M
-way;König-Konrad-Straße;Q157133;ja;wikidata;M
-way;Liebermannstraße;Q158062;ja;wikidata;M
-way;Lorenz-Diehl-Straße;Q1584800;ja;wikidata;M
-way;Pfarrer-Bechtolsheimer-Weg;Q1596680;ja;wikidata;M
-way;Holsteinstraße;Q1597956;ja;wikidata;M
-way;Walter-Hallstein-Straße;Q159995;ja;wikidata;M
-way;Rhabanusstraße;Q160441;ja;wikidata;M
-way;Bonifaziusplatz;Q160445;ja;wikidata;M
-way;Bonifaziusstraße;Q160445;ja;wikidata;M
-way;Senefelderstraße;Q161048;ja;wikidata;M
-way;Woynastraße;Q16112805;ja;wikidata;M
-way;Stefansberg;Q161775;ja;wikidata;M
-way;Stefansplatz;Q161775;ja;wikidata;M
-way;Stefansstraße;Q161775;ja;wikidata;M
-way;Haydnstraße;Q16211552;ja;wikidata;M
-way;Xaveriusweg;Q163900;ja;wikidata;M
-way;Menzelstraße;Q164961;ja;wikidata;M
-way;Spitzwegstraße;Q164979;ja;wikidata;M
-way;Justus-Liebig-Straße;Q16571;ja;wikidata;M
-way;Liebigstraße;Q16571;ja;wikidata;M
-way;Jockel-Fuchs-Platz ;Q1691256;ja;wikidata;M
-way;Altenauergasse;Q1692844;ja;wikidata;M
-way;Johann-Maria-Kertell-Platz;Q1695429;ja;wikidata;M
-way;Scharnhorststraße;Q170340;ja;wikidata;M
-way;Töngesstraße;Q170547;ja;wikidata;M
-way;Külbstraße;Q1732091;ja;wikidata;M
-way;Dr.-Karl-Schramm-Straße;Q1732917;ja;wikidata;M
-way;Philipp-Wasserburg-Straße;Q1777180;ja;wikidata;M
-way;Palestrinaweg;Q179277;ja;wikidata;M
-way;Philipp-von-Zabern-Platz;Q1799476;ja;wikidata;M
-way;Hans-Klenk-Straße;Q18020684;ja;wikidata;M
-way;Konrad-Kraus-Straße;Q18022404;ja;wikidata;M
-way;Gallusgasse ;Q180936;ja;wikidata;M
-way;Achatiusweg;Q186085;ja;wikidata;M
-way;An der Achatiuskirche;Q186085;ja;wikidata;M
-way;Ludwig-Strecker-Straße;Q1875078;ja;wikidata;M
-way;Germanikusstraße;Q191039;ja;wikidata;M
-way;Klarastraße;Q191107;ja;wikidata;F
-way;Christofsgäßchen ;Q193507;ja;wikidata;M
-way;Christofsstraße ;Q193507;ja;wikidata;M
-way;Hintere Christofsgasse ;Q193507;ja;wikidata;M
-way;Paul-Denis-Straße;Q2059114;ja;wikidata;M
-way;Graf-Stauffenberg-Straße;Q21209;ja;wikidata;M
-way;Steubenstraße;Q213525;ja;wikidata;M
-way;Ludwigsstraße ;Q213527;ja;wikidata;M
-way;Freiherr-vom-Stein-Straße;Q213542;ja;wikidata;M
-way;Ernst-Reuter-Straße;Q213561;ja;wikidata;M
-way;Freiligrathstraße;Q213719;ja;wikidata;M
-way;Wilhelm-Leuschner-Straße;Q213868;ja;wikidata;M
-way;Thomas-Dehler-Straße;Q215092;ja;wikidata;M
-way;Heinrich-von-Stephan-Str.;Q215482;ja;wikidata;M
-way;Görresstraße;Q215730;ja;wikidata;M
-way;Schulze-Delitzsch-Straße;Q215961;ja;wikidata;M
-way;Heckerstraße;Q216025;ja;wikidata;M
-way;Vierzehn-Nothelfer-Straße;Q219014 (Gruppe);ja;wikidata;"""+"""
-way;Schillerplatz;Q22670;ja;wikidata;M
-way;Schillerstraße;Q22670;ja;wikidata;M
-way;Seppel-Glückert-Passage;Q2271719;ja;wikidata;M
-way;Isaac-Fulda-Allee;Q22915308;ja;wikidata;M
-way;George-Washington-Straße;Q23;ja;wikidata;M
-way;Lothary Aue;Q23062459;in OSM nicht zu finden (auch in Maps nicht);wikidata;
-way;Jungenfeldstraße;Q23062466;ja;wikidata;M
-way;Trommlerstraße;Q23062914;ja;wikidata;M
-way;Alfred-Nobel-Straße;Q23810;ja;wikidata;M
-way;Fastradaweg;Q241165;ja;wikidata;F
-way;Inge-Reitz-Straße;Q24175010;ja;wikidata;F
-way;Baentschstraße;Q2417839;ja;wikidata;M
-way;Dionysiusstraße;Q244380;ja;wikidata;M
-way;Adenauer-Ufer;Q2492;ja;wikidata;M
-way;Konrad-Adenauer-Straße;Q2492;ja;wikidata;M
-way;Ludwig-Erhard-Straße;Q2496;ja;wikidata;M
-way;Willy-Brandt-Platz;Q2514;ja;wikidata;M
-way;Helmut-Kohl-Platz ;Q2518;ja;wikidata;M
-way;Mozartstraße;Q254;ja;wikidata;M
-way;Beethovenstraße;Q255;ja;wikidata;M
-way;Ehrhardstraße;Q2572485;ja;wikidata;M
-way;Theodor-Heuss-Straße;Q2594;ja;wikidata;M
-way;Hermann-Hesse-Straße;Q25973;ja;wikidata;M
-way;Dumontstraße;Q2644117;ja;wikidata;M
-way;Friedrich-Ebert-Platz;Q2646;ja;wikidata;M
-way;Friedrich-Ebert-Straße;Q2646;ja;wikidata;M
-way;Hindenburgplatz;Q2667;ja;wikidata;M
-way;Hindenburgstraße;Q2667;ja;wikidata;M
-way;Kaiser-Wilhelm-Ring;Q2677;ja;wikidata;M
-way;Ottiliengasse;Q269867;ja;wikidata;F
-way;Theodor-Storm-Weg;Q26993;ja;wikidata;M
-way;Albinistraße;Q27507663;ja;wikidata;M
-way;Anselm-Franz-von-Bentzel-Weg;Q27562805;ja;wikidata;M
-way;Aspeltstraße;Q27585987;ja;wikidata;M
-way;Colmarstraße;Q27604665;ja;wikidata;M
-way;Emmeransstraße ;Q277600;ja;wikidata;M
-way;Jakob-Steffan-Straße;Q278517;ja;wikidata;M
-way;Kleiststraße;Q28494;ja;wikidata;M
-way;Maria-Ward-Straße;Q291061;ja;wikidata;F
-way;Margaretengasse ;Q297742;ja;wikidata;F
-way;Parcusstraße;Q30169218;ja;wikidata;M
-way;Salvatorstraße;Q302;ja;wikidata;M
-way;Kaiser-Karl-Ring;Q3044;ja;wikidata;M
-way;Galileo-Galilei-Straße;Q307;ja;wikidata;M
-way;Merkurweg;Q308;ja;wikidata;M
-way;Auf dem Albansberg;Q312982;ja;wikidata;M
-way;Jeanbon-St.Andre-Straße;Q316097;ja;wikidata;M
-way;Mauritzenplatz ;Q316599;ja;wikidata;M
-way;Ingelheimstraße;Q316725;ja;wikidata;M
-way;Weidmannstraße;Q3180622;ja;wikidata;M
-way;Breidenbacherstraße ;Q328688;ja;wikidata;M
-way;Pankratiusstraße;Q336731;ja;wikidata;M
-way;Petersplatz;Q33923;ja;wikidata;M
-way;Petersstraße;Q33923;ja;wikidata;M
-way;Mariengäßchen;Q345;ja;wikidata;F
-way;Marienstraße;Q345;ja;wikidata;F
-way;Lessingplatz;Q34628;ja;wikidata;M
-way;Lessingstraße;Q34628;ja;wikidata;M
-way;Czernyweg;Q347292;ja;wikidata;M
-way;Adam-Allendorf-Weg;Q348612;ja;wikidata;M
-way;Benjamin-Franklin-Straße;Q34969;ja;wikidata;M
-way;Röntgenstraße;Q35149;ja;wikidata;M
-way;Thomas-Mann-Straße;Q37030;ja;wikidata;M
-way;Alexander-Fleming-Straße;Q37064;ja;wikidata;M
-way;Robert-Koch-Straße;Q37193;ja;wikidata;M
-way;Schopenhauerweg;Q38193;ja;wikidata;M
-way;Bert-Brecht-Straße;Q38757;ja;wikidata;M
-way;Wendelinusheim;Q389586;ja;wikidata;M
-way;Wendelinusweg;Q389586;in OSM nicht angelegt;wikidata;
-way;Agnes-Karll-Straße;Q394562;ja;wikidata;F
-way;Carl-Benz-Straße;Q40224;ja;wikidata;M
-way;Kilianweg;Q40513;ja;wikidata;M
-way;Johannisstraße ;Q40662;ja;wikidata;M
-way;Franz-Liszt-Straße;Q41309;ja;wikidata;M
-way;Gerhart-Hauptmann-Straße;Q43523;ja;wikidata;M
-way;Carl-Orff-Straße;Q44086;ja;wikidata;M
-way;Moltkestraße;Q44205;ja;wikidata;M
-way;An der Nikolausschanze ;Q44269;ja;wikidata;M
-way;Nikolausstraße;Q44269;ja;wikidata;M
-way;Heinrich-Heine-Straße;Q44403;ja;wikidata;M
-way;Canisiusstraße;Q44624;ja;wikidata;M
-way;Romano-Guardini-Platz;Q44872;ja;wikidata;M
-way;Pettenkoferweg;Q44993;ja;wikidata;M
-way;Raiffeisenstraße;Q45141;ja;wikidata;M
-way;Raimundistraße;Q454789;ja;wikidata;M
-way;Emy-Roeder-Straße;Q462615;ja;wikidata;F
-way;Jupiterweg;Q4649;ja;wikidata;M
-way;Elsa-Brändström-Straße;Q469673;ja;wikidata;F
-way;Manfred-v.-Richthofen-Str.;Q4701;ja;wikidata;M
-way;Tizianweg;Q47551;ja;wikidata;M
-way;Bilhildisstraße ;Q477895;ja;wikidata;F
-way;Smetanaweg;Q48173;ja;wikidata;M
-way;Agrippastraße;Q48174;ja;wikidata;M
-way;Staudingerweg;Q48956;ja;wikidata;M
-way;Albert-Schweitzer-Straße;Q49325;ja;wikidata;M
-way;Albert-Schweitzer-Straße;Q49325;ja;wikidata;M
-way;Peter-Altmeier-Allee;Q518750;ja;wikidata;M
-way;Pfarrer-Brantzen-Straße;Q52063284;ja;wikidata;M
-way;Windthorststraße;Q533645;ja;wikidata;M
-way;Victor-Hugo-Ufer;Q535;ja;wikidata;M
-way;Lindenschmitstraße;Q544470;ja;wikidata;M
-way;Veitstraße;Q548914;ja;wikidata;M
-way;Ludwig-Richter-Straße;Q551896;ja;wikidata;M
-way;Rektor-Plum-Weg;Q55682278;ja;wikidata;M
-way;Pfarrer-Bensheimer-Straße;Q55684755;ja;wikidata;M
-way;Albrecht-Dürer-Straße;Q5580;ja;wikidata;M
-way;Van-Gogh-Straße;Q5582;ja;wikidata;M
-way;Franz-Anton-Hermann-Straße;Q55875745;ja;wikidata;M
-way;Sophie-Christ-Straße;Q55911924;ja;wikidata;F
-way;Rembrandtstraße;Q5598;ja;wikidata;M
-way;Rubensallee;Q5599;ja;wikidata;M
-way;Wittichweg;Q56026824;ja;wikidata;M
-way;Adolf-Gerhard-Straße ;Q56062028;ja;wikidata;M
-way;Lise-Meitner-Straße;Q56189;ja;wikidata;F
-way;Cranachweg;Q56538064 (Familienname);ja;wikidata;"""+"""
-way;Geschwister-Heinefetter-Platz ;Q56827157 (Familienname, hier gemeint 2 Schwestern);ja;wikidata;"""+"""
-way;Dr.-Maria-Hopf-Straße;Q56868059;in OSM nicht gefunden;wikidata;
-way;Otto-Hahn-Straße;Q57065;ja;wikidata;M
-way;Hahn-Meitner-Weg;Q57065;ja;wikidata;M
-way;Nelly-Sachs-Straße;Q57074;ja;wikidata;F
-way;Paul-Ehrlich-Weg;Q57089;ja;wikidata;M
-way;Gottlieb-Daimler-Straße;Q57098;ja;wikidata;M
-way;Regerstraße;Q57139;ja;wikidata;M
-way;Lilienthalstraße;Q57162;ja;wikidata;M
-way;Generaloberst-Beck-Straße;Q57170;ja;wikidata;M
-way;Generaloberst-Beck-Straße;Q57170;ja;wikidata;M
-way;Generaloberst-Beck-Straße;Q57170;ja;wikidata;M
-way;Udetstraße;Q57179;ja;wikidata;M
-way;Hebbelstraße;Q57182;ja;wikidata;M
-way;Clemens-Brentano-Straße;Q57235;ja;wikidata;M
-way;Hindemithstraße;Q57244;ja;wikidata;M
-way;Corneliusstraße;Q57257;ja;wikidata;M
-way;Peter-Cornelius-Platz;Q57257;ja;wikidata;M
-way;Marseillestraße;Q57259;ja;wikidata;M
-way;Nestlestraße;Q57290;ja;wikidata;M
-way;Arndtstraße;Q57351;ja;wikidata;M
-way;Pfitznerstraße;Q57358;ja;wikidata;M
-way;Wernher-von-Braun-Straße;Q57384;ja;wikidata;M
-way;Tucholskyweg;Q57386;ja;wikidata;M
-way;Alfred-Döblin-Straße;Q57389;ja;wikidata;M
-way;Anna-Seghers-Platz;Q57393;ja;wikidata;F
-way;Carl-Goerdeler-Straße;Q57430;ja;wikidata;M
-way;Kurt-Schumacher-Straße;Q57465;ja;wikidata;M
-way;Adam-Opel-Straße;Q57479;ja;wikidata;M
-way;Ernst-Ludwig-Platz ;Q57507;ja;wikidata;M
-way;Ernst-Ludwig-Straße ;Q57507;ja;wikidata;M
-way;Wedekindstraße;Q57619;ja;wikidata;M
-way;Erzbergerstraße;Q57755;ja;wikidata;M
-way;Erzbergerstraße;Q57755;ja;wikidata;M
-way;Immelmannstraße;Q57937;ja;wikidata;M
-way;August-Horch-Straße;Q58035;ja;wikidata;M
-way;Forsterstraße;Q58062;ja;wikidata;M
-way;Wöhlerstraße;Q58575;ja;wikidata;M
-way;Siemensstraße;Q58577;ja;wikidata;M
-way;Kaiser-Friedrich-Straße ;Q58600;ja;wikidata;M
-way;Friedrichsstraße;Q58600;ja;wikidata;M
-way;Möldersstraße;Q58641;ja;wikidata;M
-way;Goetheplatz;Q5879;ja;wikidata;M
-way;Goethestraße;Q5879;ja;wikidata;M
-way;Max-Born-Straße;Q58978;ja;wikidata;M
-way;Semmelweisweg;Q59736;ja;wikidata;M
-way;Helmholtzweg;Q60024;ja;wikidata;M
-way;Achardstraße;Q60193;ja;wikidata;M
-way;Wilhelm-Raabe-Straße;Q60647;ja;wikidata;M
-way;Ricarda-Huch-Straße;Q60785;ja;wikidata;F
-way;Mathildenstraße;Q60796;ja;wikidata;F
-way;Johann-Joachim-Becher-Weg;Q60808;ja;wikidata;M
-way;Schulrat-Spang-Straße;Q60831386;ja;wikidata;M
-way;Rolf-Balsam-Straße;Q60831992;ja;wikidata;M
-way;Sophie-Cahn-Straße;Q60841283;ja;wikidata;F
-way;Anni-Eisler-Lehmann-Straße;Q60841306;ja;wikidata;F
-way;Hochgesandstraße;Q60841355;ja;wikidata;M
-way;Dieter-Schro-Weg;Q60841500;ja;wikidata;M
-way;Heinrich-Wothe-Straße;Q60841520;ja;wikidata;M
-way;Fritz-Straßmann-Weg;Q60859;ja;wikidata;M
-way;Heinrich-von-Brentano-Str.;Q60954;ja;wikidata;M
-way;Uhlandstraße;Q61058;ja;wikidata;M
-way;Kerschensteinerstraße;Q61195;ja;wikidata;M
-way;Petra-Kelly-Straße;Q61227;in OSM nicht zu finden (auch in Maps nicht);wikidata;
-way;Alfred-Delp-Straße;Q61305;ja;wikidata;M
-way;Dalbergstraße;Q61353;ja;wikidata;M
-way;Otto-Wels-Straße;Q61719;ja;wikidata;M
-way;Adam-Riese-Straße;Q61740;ja;wikidata;M
-way;Carl-von-Linde-Straße;Q61864;ja;wikidata;M
-way;Nikolaus-Kopernikus-Straße;Q619;ja;wikidata;M
-way;Stephanienhof;Q62024;in OSM nicht gefunden;wikidata;
-way;Gabelsbergerstraße;Q62137;ja;wikidata;M
-way;Erich-Ollenhauer-Straße;Q62185;ja;wikidata;M
-way;Sauerbruchstraße;Q62330;ja;wikidata;M
-way;Theodor-Körner-Straße;Q62344;ja;wikidata;M
-way;Körnerstraße;Q62344;ja;wikidata;M
-way;Maria-Sibylla-Merian-Straße;Q62530;ja;wikidata;F
-way;Eleonorenstraße;Q62549;ja;wikidata;F
-way;Schöfferstraße;Q62560;ja;wikidata;M
-way;Kettelerstraße;Q626805;ja;wikidata;M
-way;Heinrich-von-Meißen-Str.;Q62702;ja;wikidata;M
-relation;Frauenlobplatz;Q62702;ja;wikidata;M
-way;Frauenlobstraße;Q62702;ja;wikidata;M
-way;Otto-Brunfels-Schneise;Q63206;ja;wikidata;M
-way;Otto-Brunfels-Schneise;Q63206;ja;wikidata;M
-way;Otto-Brunfels-Schneise;Q63206;ja;wikidata;M
-way;Adam-Stegerwald-Straße;Q63434;ja;wikidata;M
-way;Elly-Beinhorn-Straße;Q63643;ja;wikidata;F
-way;Elly-Beinhorn-Straße;Q63643;ja;wikidata;F
-way;Mörikestraße;Q63699;ja;wikidata;M
-way;Richard-Schirrmann-Straße;Q63862;ja;wikidata;M
-way;Fuststraße ;Q64390;ja;wikidata;M
-way;Bacchusstraße;Q645312;ja;wikidata;M
-way;Werderstraße;Q64634;ja;wikidata;M
-way;Heinrich-von-Gagern-Str.;Q65230;ja;wikidata;M
-way;Elisabeth-Schwarzhaupt-Straße;Q65397;ja;wikidata;F
-way;An der Bastion Johannes;Q65766;ja;wikidata;M
-way;An der Philippsschanze;Q65766;ja;wikidata;M
-way;Bastion Philipp;Q65766;ja;wikidata;M
-way;Annemarie-Renger-Straße;Q66138;ja;wikidata;F
-way;Langenbeckstraße;Q66339;ja;wikidata;M
-way;Agnes-Miegel-Straße;Q67013;ja;wikidata;F
-way;Elisabeth-Langgässer-Str.;Q68501;ja;wikidata;F
-way;Albanstraße;Q686948;ja;wikidata;M
-way;Albert-Stohr-Straße;Q69039;ja;wikidata;M
-way;Curt-Goetz-Straße ;Q69320;ja;wikidata;M
-way;Nikolaus-Becker-Straße;Q69698;ja;wikidata;M
-way;Silcherweg;Q700090;ja;wikidata;M
-way;Eduard-David-Straße;Q70579;ja;wikidata;M
-way;Uwe-Beyer-Straße;Q70877;ja;wikidata;M
-way;Hildegard-von-Bingen-Straße;Q70991;ja;wikidata;F
-way;Hildegardstraße;Q70991;ja;wikidata;F
-way;Robert-Bosch-Straße;Q71032;ja;wikidata;M
-way;Fritz-Erler-Straße;Q71365;ja;wikidata;M
-way;Schneckenburgerstraße;Q71399;ja;wikidata;M
-way;Lotharstraße ;Q71715;ja;wikidata;M
-way;Schönbornstraße;Q71715;ja;wikidata;M
-way;Carl-Diem-Straße;Q71850;ja;wikidata;M
-way;Naunynweg;Q71858;ja;wikidata;M
-way;Schillstraße;Q72343;ja;wikidata;M
-way;Otto-Schott-Straße;Q72357;ja;wikidata;M
-way;Ludwig-Bamberger-Straße;Q72400;ja;wikidata;M
-way;Brahmsweg;Q7294;ja;wikidata;M
-way;Händelstraße;Q7302;ja;wikidata;M
-way;Gustav-Mahler-Straße;Q7304;ja;wikidata;M
-way;Wichernstraße;Q73048;ja;wikidata;M
-way;Schubertstraße;Q7312;ja;wikidata;M
-way;Robert-Schumann-Straße;Q7351;ja;wikidata;M
-way;Osteinstraße;Q75175;ja;wikidata;M
-way;Zeppelinstraße;Q75780;ja;wikidata;M
-way;Nikolaus-Otto-Straße;Q75782;ja;wikidata;M
-way;Lassallestraße;Q75784;ja;wikidata;M
-way;Hölderlinstraße;Q75889;ja;wikidata;M
-way;Elisabeth-Selbert-Straße;Q75976;ja;wikidata;F
-way;Diether-von-Isenburg-Straße ;Q76264;ja;wikidata;M
-way;Dietrich-Bonhoeffer-Straße;Q76326;ja;wikidata;M
-way;Jochen-Klepper-Weg;Q76329;ja;wikidata;M
-way;Paul-Gerhardt-Weg;Q76331;ja;wikidata;M
-way;Ernst-Abbe-Straße;Q76359;ja;wikidata;M
-way;Kardinal-von-Galen-Straße;Q76439;ja;wikidata;M
-way;Rilkeallee;Q76483;ja;wikidata;M
-way;Bebelstraße;Q76520;ja;wikidata;M
-way;Fontanestraße;Q76632;ja;wikidata;M
-way;Friedrich-Naumann-Straße;Q76811;ja;wikidata;M
-way;Carl-Zuckmayer-Straße;Q76820;ja;wikidata;M
-way;Kraeplinweg;Q76828;ja;wikidata;M
-way;Carl-Zeiss-Straße;Q76833;ja;wikidata;M
-way;Boppstraße;Q76934;ja;wikidata;M
-way;Geschwister-Scholl-Straße;Q76972;ja;wikidata;"""+"""
-way;Lion-Feuchtwanger-Straße;Q77024;ja;wikidata;M
-way;Turnvater-Jahn-Straße;Q77098;ja;wikidata;M
-way;Jahnstraße;Q77098;ja;wikidata;M
-way;Huttenstraße;Q77107;ja;wikidata;M
-way;Philipp-Reis-Straße;Q77124;ja;wikidata;M
-way;Wilhelm-Maybach-Straße;Q77125;ja;wikidata;M
-way;Eichendorffstraße;Q77204;ja;wikidata;M
-way;Billrothweg;Q77242;ja;wikidata;M
-way;Florian-Geyer-Straße;Q77407;ja;wikidata;M
-way;Hermann-Löns-Straße;Q77486;ja;wikidata;M
-way;Lönsstraße;Q77486;ja;wikidata;M
-way;Willigisplatz ;Q77564;ja;wikidata;M
-way;Willigisstraße ;Q77564;ja;wikidata;M
-way;Fliednerstraße;Q77814;ja;wikidata;M
-way;Hermann-Ehlers-Straße;Q78425;ja;wikidata;M
-way;Stefan-Zweig-Straße;Q78491;ja;wikidata;M
-way;Franz-Werfel-Straße;Q78514;ja;wikidata;M
-way;Barbarossaring;Q79789;ja;wikidata;M
-way;Barbarossastraße;Q79789;ja;wikidata;M
-way;Dr.-Martin-Luther-King-Weg;Q8027;ja;wikidata;M
-way;Brucknerstraße;Q81752;ja;wikidata;M
-way;Pliniusweg;Q82778;ja;wikidata;M
-way;Konstantinweg;Q8413;ja;wikidata;M
-way;Karlsstraße;Q84201;ja;wikidata;M
-way;Lenauweg;Q84280;ja;wikidata;M
-way;Bismarckplatz;Q8442;ja;wikidata;M
-way;Wilhelm-Christ-Straße;Q85398;ja;wikidata;M
-way;Emmerich-Josef-Straße;Q85483;ja;wikidata;M
-way;Emrichruhstraße;Q85483;ja;wikidata;M
-way;Marie-Juchacz-Straße;Q85820;ja;wikidata;F
-way;Parsevalstraße;Q86573;ja;wikidata;M
-way;Greiffenklaustraße ;Q86787;ja;wikidata;M
-way;Ritterstraße;Q86917;ja;wikidata;M
-way;Bodelschwinghstraße;Q87306;ja;wikidata;M
-way;Erthalstraße;Q87611;ja;wikidata;M
-way;Ina-Seidel-Straße;Q88296;ja;wikidata;F
-way;Welschplatz;Q88651;ja;wikidata;M
-way;Welschstraße;Q88651;ja;wikidata;M
-way;Gutenbergplatz ;Q8958;ja;wikidata;M
-way;Gensfleischstraße;Q8958;ja;wikidata;M
-way;Gutenbergstraße;Q8958;ja;wikidata;M
-way;Johannes-Kepler-Straße;Q8963;ja;wikidata;M
-way;Kirsteinstraße;Q897295;ja;wikidata;M
-way;Max-Planck-Straße;Q9021;ja;wikidata;M
-way;Leibnizstraße;Q9047;ja;wikidata;M
-way;Kafkaweg;Q905;ja;wikidata;M
-way;Scheffelstraße;Q9082;ja;wikidata;M
-way;Abraham-Lincoln-Straße;Q91;ja;wikidata;M
-way;Josef-Traxel-Weg;Q92013;ja;wikidata;M
-way;Hanns-Dieter-Hüsch-Weg;Q92025;ja;wikidata;M
-way;Ida-von-Hahn-Straße;Q92101;ja;wikidata;F
-way;Hegelstraße;Q9235;ja;wikidata;M
-way;Kantstraße;Q9312;ja;wikidata;M
-way;Marc-Chagall-Straße;Q93284;ja;wikidata;M
-way;Albert-Einstein-Straße;Q937;ja;wikidata;M
-way;Clarissa-Kupferberg-Platz;Q94761307;ja;wikidata;F
-way;Dietzestraße;Q94814800;ja;wikidata;M
-way;Jakob-Dieterich-Straße;Q94850985;ja;wikidata;M
-way;Gastellstraße;Q94851008;ja;wikidata;M
-way;Pfarrer-Bergmann-Straße;Q94876598;ja;wikidata;M
-way;Hermann-Dexheimer-Weg;Q94909115;ja;wikidata;M
-way;Daniel-Brendel-Straße;Q95320;ja;wikidata;M
-way;Martin-Luther-Straße;Q9554;ja;wikidata;M
-way;Am Kronberger Hof;Q95563;ja;wikidata;M
-way;John-F.-Kennedy-Straße;Q9696;ja;wikidata;M
-way;Ackermannweg;Q98053;ja;wikidata;M
-way;Karl-Zörgiebel-Straße;Q98104;ja;wikidata;M
-way;Ulrichstraße;Q99431;ja;wikidata;M
+name;source;gender;wikidata;type
+Ernst-Neeb-Straße;wikidata;M;Q100574;way
+Dietrich-Gresemund-Weg;wikidata;M;Q102525;way
+Fichteplatz;wikidata;M;Q102585;way
+Schottstraße;wikidata;M;Q103925;way
+Niklas-Vogt-Straße;wikidata;M;Q103942;way
+Stresemann-Ufer;wikidata;M;Q103955;way
+Wilhelm-Holzamer-Straße;wikidata;M;Q104139;way
+Adam-Karrillon-Straße ;wikidata;M;Q104186;way
+Carlo-Mierendorff-Straße;wikidata;M;Q1042305;way
+Chana-Kahn-Straße;wikidata;F;Q104807517;way
+Ludwig-Schwamb-Straße;wikidata;M;Q104979;way
+Hans-Böckler-Straße;wikidata;M;Q105130;way
+Pestalozziplatz;wikidata;M;Q105428;way
+Pestalozzistraße;wikidata;M;Q105428;way
+Georg-Moller-Passage ;wikidata;M;Q106276;way
+Dantestraße;wikidata;M;Q1067;way
+Goßlerweg;wikidata;M;Q106847;way
+Catharina-Lothary-Straße;wikidata;F;Q107557482;way
+Christianstraße;wikidata;M;Q1080417;way
+Neumannstraße;wikidata;M;Q108411;way
+Joh.-Friedrich-v.-Pfeiffer-Weg;wikidata;M;Q108704;way
+Sophie-Grosch-Straße;wikidata;F;Q1095183;way
+Wilhelm-Busch-Straße;wikidata;M;Q109540;way
+Dagobertstraße;wikidata;M;Q109860;way
+Lauterenstraße ;wikidata;M;Q1100017;way
+Wallaustraße;wikidata;M;Q110139;way
+Kathinka-Zitz-Weg ;wikidata;F;Q110567;way
+Görzstraße;wikidata;M;Q110730;way
+Adelungstraße ;wikidata;M;Q110917;way
+Nino-Erné-Straße;wikidata;M;Q111000;way
+Maler-Becker-Straße;wikidata;M;Q111052;way
+Eduard-Kreyßig-Ufer;wikidata;M;Q1113424;way
+Kreyßigstraße;wikidata;M;Q1113424;way
+Rosmerthastraße;wikidata;F;Q1118976;way
+Lucy-Hillebrand-Straße;wikidata;F;Q112007;way
+Curiestraße;wikidata;+;Q11297474;way
+Johannes-von-Müller-Weg;wikidata;M;Q116032;way
+Thomas-Jefferson-Straße;wikidata;M;Q11812;way
+Wilhelmiterstraße;wikidata;M;Q119512;way
+Müller-Thurgau-Straße;wikidata;M;Q120437;way
+Henri-Dunant-Straße;wikidata;M;Q12091;way
+Stolze-Schrey-Straße;wikidata;M;Q124806;way
+Rudolf-Diesel-Straße;wikidata;M;Q12674;way
+Friedrich-Schneider-Straße;wikidata;M;Q1269391;way
+Oechsnerstraße;wikidata;M;Q1270967;way
+Quintinsstraße;wikidata;M;Q1293541;way
+Gaßnerallee;wikidata;M;Q1312496;way
+Sömmerringplatz;wikidata;M;Q132197;way
+Sömmerringstraße;wikidata;M;Q132197;way
+Elise-Haas-Weg;wikidata;F;Q1330628;way
+Bastion Martin;wikidata;M;Q133704;way
+Martinsstraße;wikidata;M;Q133704;way
+Sebastian-Bach-Straße;wikidata;M;Q1339;way
+Erich-Dombrowski-Straße;wikidata;M;Q1352088;way
+Rathenaustraße;wikidata;M;Q135645;way
+Eugen-Salomon-Straße;wikidata;M;Q1372858;way
+Alfred-Mumbächer-Straße;wikidata;M;Q1382401;way
+Franziska-Kessel-Straße;wikidata;F;Q1389045;way
+Jacob-Goedecker-Straße;wikidata;M;Q1390536;way
+Augustusplatz;wikidata;M;Q1405;way
+Augustusstraße;wikidata;M;Q1405;way
+Goetzstraße;wikidata;M;Q1405324;way
+Domitianstraße;wikidata;M;Q1423;way
+Käthe-Kollwitz-Straße;wikidata;F;Q142472;way
+Trajanstraße;wikidata;M;Q1425;way
+Göttelmannstraße;wikidata;M;Q1437467;way
+Göttelmannstraße;wikidata;M;Q1437467;way
+Dr.-Falk-Weg;wikidata;M;Q1446714;way
+Duesbergweg;wikidata;M;Q1449889;way
+Lennigstraße;wikidata;M;Q1460722;way
+Heinrich-Schrohe-Straße ;wikidata;M;Q1462617;way
+Fritz-Bockius-Straße;wikidata;M;Q1465759;way
+Fritz-Ohlhof-Straße;wikidata;M;Q1467704;way
+Nackstraße;wikidata;M;Q1506012;way
+Kaiserstraße ;wikidata;M;Q150652;way
+Kaiserstraße ;wikidata;M;Q150652;way
+Wilhelmsstraße;wikidata;M;Q150652;way
+Kaiserstraße;wikidata;M;Q150652;way
+Kaiserstraße;wikidata;M;Q150652;way
+An der Karlsschanze;wikidata;M;Q150665;way
+Richard-Wagner-Straße;wikidata;M;Q1511;way
+Rochusstraße;wikidata;M;Q152457;way
+Am Fort Josef;wikidata;M;Q152480;way
+Georg-Büchner-Straße;wikidata;M;Q154014;way
+Büchnerallee;wikidata;M;Q154014;way
+Lortzingstraße;wikidata;M;Q154203;way
+Grünewaldstraße;wikidata;M;Q154338;way
+Adolf-Kolping-Straße ;wikidata;M;Q15448837;way
+Stephan-Karl-Michel-Str.;wikidata;M;Q15456369;way
+Herderplatz;wikidata;M;Q155547;way
+Alicenplatz;wikidata;F;Q155566;way
+Alicenstraße;wikidata;F;Q155566;way
+Alicenplatz;wikidata;F;Q155566;way
+Alicenstraße;wikidata;F;Q155566;way
+Alicenstraße;wikidata;F;Q155566;way
+Alicenstraße;wikidata;F;Q155566;way
+;;;;
+Luisenstraße;wikidata;F;Q156723;way
+Drususstraße;wikidata;M;Q156778;way
+Drususwall;wikidata;M;Q156778;way
+König-Konrad-Straße;wikidata;M;Q157133;way
+Liebermannstraße;wikidata;M;Q158062;way
+Lorenz-Diehl-Straße;wikidata;M;Q1584800;way
+Pfarrer-Bechtolsheimer-Weg;wikidata;M;Q1596680;way
+Holsteinstraße;wikidata;M;Q1597956;way
+Walter-Hallstein-Straße;wikidata;M;Q159995;way
+Rhabanusstraße;wikidata;M;Q160441;way
+Bonifaziusplatz;wikidata;M;Q160445;way
+Bonifaziusstraße;wikidata;M;Q160445;way
+Senefelderstraße;wikidata;M;Q161048;way
+Woynastraße;wikidata;M;Q16112805;way
+Stefansberg;wikidata;M;Q161775;way
+Stefansplatz;wikidata;M;Q161775;way
+Stefansstraße;wikidata;M;Q161775;way
+Haydnstraße;wikidata;M;Q16211552;way
+Xaveriusweg;wikidata;M;Q163900;way
+Menzelstraße;wikidata;M;Q164961;way
+Spitzwegstraße;wikidata;M;Q164979;way
+Justus-Liebig-Straße;wikidata;M;Q16571;way
+Liebigstraße;wikidata;M;Q16571;way
+Jockel-Fuchs-Platz ;wikidata;M;Q1691256;way
+Altenauergasse;wikidata;M;Q1692844;way
+Johann-Maria-Kertell-Platz;wikidata;M;Q1695429;way
+Scharnhorststraße;wikidata;M;Q170340;way
+Töngesstraße;wikidata;M;Q170547;way
+Külbstraße;wikidata;M;Q1732091;way
+Dr.-Karl-Schramm-Straße;wikidata;M;Q1732917;way
+Philipp-Wasserburg-Straße;wikidata;M;Q1777180;way
+Palestrinaweg;wikidata;M;Q179277;way
+Philipp-von-Zabern-Platz;wikidata;M;Q1799476;way
+Hans-Klenk-Straße;wikidata;M;Q18020684;way
+Konrad-Kraus-Straße;wikidata;M;Q18022404;way
+Gallusgasse ;wikidata;M;Q180936;way
+Achatiusweg;wikidata;M;Q186085;way
+An der Achatiuskirche;wikidata;M;Q186085;way
+Ludwig-Strecker-Straße;wikidata;M;Q1875078;way
+Germanikusstraße;wikidata;M;Q191039;way
+Klarastraße;wikidata;F;Q191107;way
+Christofsgäßchen ;wikidata;M;Q193507;way
+Christofsstraße ;wikidata;M;Q193507;way
+Hintere Christofsgasse ;wikidata;M;Q193507;way
+Paul-Denis-Straße;wikidata;M;Q2059114;way
+Graf-Stauffenberg-Straße;wikidata;M;Q21209;way
+Steubenstraße;wikidata;M;Q213525;way
+Ludwigsstraße ;wikidata;M;Q213527;way
+Freiherr-vom-Stein-Straße;wikidata;M;Q213542;way
+Ernst-Reuter-Straße;wikidata;M;Q213561;way
+Freiligrathstraße;wikidata;M;Q213719;way
+Wilhelm-Leuschner-Straße;wikidata;M;Q213868;way
+Thomas-Dehler-Straße;wikidata;M;Q215092;way
+Heinrich-von-Stephan-Str.;wikidata;M;Q215482;way
+Görresstraße;wikidata;M;Q215730;way
+Schulze-Delitzsch-Straße;wikidata;M;Q215961;way
+Heckerstraße;wikidata;M;Q216025;way
+Vierzehn-Nothelfer-Straße;wikidata;+;Q219014;way
+Schillerplatz;wikidata;M;Q22670;way
+Schillerstraße;wikidata;M;Q22670;way
+Seppel-Glückert-Passage;wikidata;M;Q2271719;way
+Isaac-Fulda-Allee;wikidata;M;Q22915308;way
+George-Washington-Straße;wikidata;M;Q23;way
+;;;;
+Jungenfeldstraße;wikidata;M;Q23062466;way
+Trommlerstraße;wikidata;M;Q23062914;way
+Alfred-Nobel-Straße;wikidata;M;Q23810;way
+Fastradaweg;wikidata;F;Q241165;way
+Inge-Reitz-Straße;wikidata;F;Q24175010;way
+Baentschstraße;wikidata;M;Q2417839;way
+Dionysiusstraße;wikidata;M;Q244380;way
+Adenauer-Ufer;wikidata;M;Q2492;way
+Konrad-Adenauer-Straße;wikidata;M;Q2492;way
+Ludwig-Erhard-Straße;wikidata;M;Q2496;way
+Willy-Brandt-Platz;wikidata;M;Q2514;way
+Helmut-Kohl-Platz ;wikidata;M;Q2518;way
+Mozartstraße;wikidata;M;Q254;way
+Beethovenstraße;wikidata;M;Q255;way
+Ehrhardstraße;wikidata;M;Q2572485;way
+Theodor-Heuss-Straße;wikidata;M;Q2594;way
+Hermann-Hesse-Straße;wikidata;M;Q25973;way
+Dumontstraße;wikidata;M;Q2644117;way
+Friedrich-Ebert-Platz;wikidata;M;Q2646;way
+Friedrich-Ebert-Straße;wikidata;M;Q2646;way
+Hindenburgplatz;wikidata;M;Q2667;way
+Hindenburgstraße;wikidata;M;Q2667;way
+Kaiser-Wilhelm-Ring;wikidata;M;Q2677;way
+Ottiliengasse;wikidata;F;Q269867;way
+Theodor-Storm-Weg;wikidata;M;Q26993;way
+Albinistraße;wikidata;M;Q27507663;way
+Anselm-Franz-von-Bentzel-Weg;wikidata;M;Q27562805;way
+Aspeltstraße;wikidata;M;Q27585987;way
+Colmarstraße;wikidata;M;Q27604665;way
+Emmeransstraße ;wikidata;M;Q277600;way
+Jakob-Steffan-Straße;wikidata;M;Q278517;way
+Kleiststraße;wikidata;M;Q28494;way
+Maria-Ward-Straße;wikidata;F;Q291061;way
+Margaretengasse ;wikidata;F;Q297742;way
+Parcusstraße;wikidata;M;Q30169218;way
+Salvatorstraße;wikidata;M;Q302;way
+Kaiser-Karl-Ring;wikidata;M;Q3044;way
+Galileo-Galilei-Straße;wikidata;M;Q307;way
+Merkurweg;wikidata;M;Q308;way
+Auf dem Albansberg;wikidata;M;Q312982;way
+Jeanbon-St.Andre-Straße;wikidata;M;Q316097;way
+Mauritzenplatz ;wikidata;M;Q316599;way
+Ingelheimstraße;wikidata;M;Q316725;way
+Weidmannstraße;wikidata;M;Q3180622;way
+Breidenbacherstraße ;wikidata;M;Q328688;way
+Pankratiusstraße;wikidata;M;Q336731;way
+Petersplatz;wikidata;M;Q33923;way
+Petersstraße;wikidata;M;Q33923;way
+Mariengäßchen;wikidata;F;Q345;way
+Marienstraße;wikidata;F;Q345;way
+Lessingplatz;wikidata;M;Q34628;way
+Lessingstraße;wikidata;M;Q34628;way
+Czernyweg;wikidata;M;Q347292;way
+Adam-Allendorf-Weg;wikidata;M;Q348612;way
+Benjamin-Franklin-Straße;wikidata;M;Q34969;way
+Röntgenstraße;wikidata;M;Q35149;way
+Thomas-Mann-Straße;wikidata;M;Q37030;way
+Alexander-Fleming-Straße;wikidata;M;Q37064;way
+Robert-Koch-Straße;wikidata;M;Q37193;way
+Schopenhauerweg;wikidata;M;Q38193;way
+Bert-Brecht-Straße;wikidata;M;Q38757;way
+Wendelinusheim;wikidata;M;Q389586;way
+;;;;
+Agnes-Karll-Straße;wikidata;F;Q394562;way
+Carl-Benz-Straße;wikidata;M;Q40224;way
+Kilianweg;wikidata;M;Q40513;way
+Johannisstraße ;wikidata;M;Q40662;way
+Franz-Liszt-Straße;wikidata;M;Q41309;way
+Gerhart-Hauptmann-Straße;wikidata;M;Q43523;way
+Carl-Orff-Straße;wikidata;M;Q44086;way
+Moltkestraße;wikidata;M;Q44205;way
+An der Nikolausschanze ;wikidata;M;Q44269;way
+Nikolausstraße;wikidata;M;Q44269;way
+Heinrich-Heine-Straße;wikidata;M;Q44403;way
+Canisiusstraße;wikidata;M;Q44624;way
+Romano-Guardini-Platz;wikidata;M;Q44872;way
+Pettenkoferweg;wikidata;M;Q44993;way
+Raiffeisenstraße;wikidata;M;Q45141;way
+Raimundistraße;wikidata;M;Q454789;way
+Emy-Roeder-Straße;wikidata;F;Q462615;way
+Jupiterweg;wikidata;M;Q4649;way
+Elsa-Brändström-Straße;wikidata;F;Q469673;way
+Manfred-v.-Richthofen-Str.;wikidata;M;Q4701;way
+Tizianweg;wikidata;M;Q47551;way
+Bilhildisstraße ;wikidata;F;Q477895;way
+Smetanaweg;wikidata;M;Q48173;way
+Agrippastraße;wikidata;M;Q48174;way
+Staudingerweg;wikidata;M;Q48956;way
+Albert-Schweitzer-Straße;wikidata;M;Q49325;way
+Albert-Schweitzer-Straße;wikidata;M;Q49325;way
+Peter-Altmeier-Allee;wikidata;M;Q518750;way
+Pfarrer-Brantzen-Straße;wikidata;M;Q52063284;way
+Windthorststraße;wikidata;M;Q533645;way
+Victor-Hugo-Ufer;wikidata;M;Q535;way
+Lindenschmitstraße;wikidata;M;Q544470;way
+Veitstraße;wikidata;M;Q548914;way
+Ludwig-Richter-Straße;wikidata;M;Q551896;way
+Rektor-Plum-Weg;wikidata;M;Q55682278;way
+Pfarrer-Bensheimer-Straße;wikidata;M;Q55684755;way
+Albrecht-Dürer-Straße;wikidata;M;Q5580;way
+Van-Gogh-Straße;wikidata;M;Q5582;way
+Franz-Anton-Hermann-Straße;wikidata;M;Q55875745;way
+Sophie-Christ-Straße;wikidata;F;Q55911924;way
+Rembrandtstraße;wikidata;M;Q5598;way
+Rubensallee;wikidata;M;Q5599;way
+Wittichweg;wikidata;M;Q56026824;way
+Adolf-Gerhard-Straße ;wikidata;M;Q56062028;way
+Lise-Meitner-Straße;wikidata;F;Q56189;way
+Cranachweg;wikidata;+;Q56538064;way
+Geschwister-Heinefetter-Platz ;wikidata;+;Q56827157;way
+;;;;
+Otto-Hahn-Straße;wikidata;M;Q57065;way
+Hahn-Meitner-Weg;wikidata;M;Q57065;way
+Nelly-Sachs-Straße;wikidata;F;Q57074;way
+Paul-Ehrlich-Weg;wikidata;M;Q57089;way
+Gottlieb-Daimler-Straße;wikidata;M;Q57098;way
+Regerstraße;wikidata;M;Q57139;way
+Lilienthalstraße;wikidata;M;Q57162;way
+Generaloberst-Beck-Straße;wikidata;M;Q57170;way
+Generaloberst-Beck-Straße;wikidata;M;Q57170;way
+Generaloberst-Beck-Straße;wikidata;M;Q57170;way
+Udetstraße;wikidata;M;Q57179;way
+Hebbelstraße;wikidata;M;Q57182;way
+Clemens-Brentano-Straße;wikidata;M;Q57235;way
+Hindemithstraße;wikidata;M;Q57244;way
+Corneliusstraße;wikidata;M;Q57257;way
+Peter-Cornelius-Platz;wikidata;M;Q57257;way
+Marseillestraße;wikidata;M;Q57259;way
+Nestlestraße;wikidata;M;Q57290;way
+Arndtstraße;wikidata;M;Q57351;way
+Pfitznerstraße;wikidata;M;Q57358;way
+Wernher-von-Braun-Straße;wikidata;M;Q57384;way
+Tucholskyweg;wikidata;M;Q57386;way
+Alfred-Döblin-Straße;wikidata;M;Q57389;way
+Anna-Seghers-Platz;wikidata;F;Q57393;way
+Carl-Goerdeler-Straße;wikidata;M;Q57430;way
+Kurt-Schumacher-Straße;wikidata;M;Q57465;way
+Adam-Opel-Straße;wikidata;M;Q57479;way
+Ernst-Ludwig-Platz ;wikidata;M;Q57507;way
+Ernst-Ludwig-Straße ;wikidata;M;Q57507;way
+Wedekindstraße;wikidata;M;Q57619;way
+Erzbergerstraße;wikidata;M;Q57755;way
+Erzbergerstraße;wikidata;M;Q57755;way
+Immelmannstraße;wikidata;M;Q57937;way
+August-Horch-Straße;wikidata;M;Q58035;way
+Forsterstraße;wikidata;M;Q58062;way
+Wöhlerstraße;wikidata;M;Q58575;way
+Siemensstraße;wikidata;M;Q58577;way
+Kaiser-Friedrich-Straße ;wikidata;M;Q58600;way
+Friedrichsstraße;wikidata;M;Q58600;way
+Möldersstraße;wikidata;M;Q58641;way
+Goetheplatz;wikidata;M;Q5879;way
+Goethestraße;wikidata;M;Q5879;way
+Max-Born-Straße;wikidata;M;Q58978;way
+Semmelweisweg;wikidata;M;Q59736;way
+Helmholtzweg;wikidata;M;Q60024;way
+Achardstraße;wikidata;M;Q60193;way
+Wilhelm-Raabe-Straße;wikidata;M;Q60647;way
+Ricarda-Huch-Straße;wikidata;F;Q60785;way
+Mathildenstraße;wikidata;F;Q60796;way
+Johann-Joachim-Becher-Weg;wikidata;M;Q60808;way
+Schulrat-Spang-Straße;wikidata;M;Q60831386;way
+Rolf-Balsam-Straße;wikidata;M;Q60831992;way
+Sophie-Cahn-Straße;wikidata;F;Q60841283;way
+Anni-Eisler-Lehmann-Straße;wikidata;F;Q60841306;way
+Hochgesandstraße;wikidata;M;Q60841355;way
+Dieter-Schro-Weg;wikidata;M;Q60841500;way
+Heinrich-Wothe-Straße;wikidata;M;Q60841520;way
+Fritz-Straßmann-Weg;wikidata;M;Q60859;way
+Heinrich-von-Brentano-Str.;wikidata;M;Q60954;way
+Uhlandstraße;wikidata;M;Q61058;way
+Kerschensteinerstraße;wikidata;M;Q61195;way
+;;;;
+Alfred-Delp-Straße;wikidata;M;Q61305;way
+Dalbergstraße;wikidata;M;Q61353;way
+Otto-Wels-Straße;wikidata;M;Q61719;way
+Adam-Riese-Straße;wikidata;M;Q61740;way
+Carl-von-Linde-Straße;wikidata;M;Q61864;way
+Nikolaus-Kopernikus-Straße;wikidata;M;Q619;way
+;;;;
+Gabelsbergerstraße;wikidata;M;Q62137;way
+Erich-Ollenhauer-Straße;wikidata;M;Q62185;way
+Sauerbruchstraße;wikidata;M;Q62330;way
+Theodor-Körner-Straße;wikidata;M;Q62344;way
+Körnerstraße;wikidata;M;Q62344;way
+Maria-Sibylla-Merian-Straße;wikidata;F;Q62530;way
+Eleonorenstraße;wikidata;F;Q62549;way
+Schöfferstraße;wikidata;M;Q62560;way
+Kettelerstraße;wikidata;M;Q626805;way
+Heinrich-von-Meißen-Str.;wikidata;M;Q62702;way
+Frauenlobplatz;wikidata;M;Q62702;relation
+Frauenlobstraße;wikidata;M;Q62702;way
+Otto-Brunfels-Schneise;wikidata;M;Q63206;way
+Otto-Brunfels-Schneise;wikidata;M;Q63206;way
+Otto-Brunfels-Schneise;wikidata;M;Q63206;way
+Adam-Stegerwald-Straße;wikidata;M;Q63434;way
+Elly-Beinhorn-Straße;wikidata;F;Q63643;way
+Elly-Beinhorn-Straße;wikidata;F;Q63643;way
+Mörikestraße;wikidata;M;Q63699;way
+Richard-Schirrmann-Straße;wikidata;M;Q63862;way
+Fuststraße ;wikidata;M;Q64390;way
+Bacchusstraße;wikidata;M;Q645312;way
+Werderstraße;wikidata;M;Q64634;way
+Heinrich-von-Gagern-Str.;wikidata;M;Q65230;way
+Elisabeth-Schwarzhaupt-Straße;wikidata;F;Q65397;way
+An der Bastion Johannes;wikidata;M;Q65766;way
+An der Philippsschanze;wikidata;M;Q65766;way
+Bastion Philipp;wikidata;M;Q65766;way
+Annemarie-Renger-Straße;wikidata;F;Q66138;way
+Langenbeckstraße;wikidata;M;Q66339;way
+Agnes-Miegel-Straße;wikidata;F;Q67013;way
+Elisabeth-Langgässer-Str.;wikidata;F;Q68501;way
+Albanstraße;wikidata;M;Q686948;way
+Albert-Stohr-Straße;wikidata;M;Q69039;way
+Curt-Goetz-Straße ;wikidata;M;Q69320;way
+Nikolaus-Becker-Straße;wikidata;M;Q69698;way
+Silcherweg;wikidata;M;Q700090;way
+Eduard-David-Straße;wikidata;M;Q70579;way
+Uwe-Beyer-Straße;wikidata;M;Q70877;way
+Hildegard-von-Bingen-Straße;wikidata;F;Q70991;way
+Hildegardstraße;wikidata;F;Q70991;way
+Robert-Bosch-Straße;wikidata;M;Q71032;way
+Fritz-Erler-Straße;wikidata;M;Q71365;way
+Schneckenburgerstraße;wikidata;M;Q71399;way
+Lotharstraße ;wikidata;M;Q71715;way
+Schönbornstraße;wikidata;M;Q71715;way
+Carl-Diem-Straße;wikidata;M;Q71850;way
+Naunynweg;wikidata;M;Q71858;way
+Schillstraße;wikidata;M;Q72343;way
+Otto-Schott-Straße;wikidata;M;Q72357;way
+Ludwig-Bamberger-Straße;wikidata;M;Q72400;way
+Brahmsweg;wikidata;M;Q7294;way
+Händelstraße;wikidata;M;Q7302;way
+Gustav-Mahler-Straße;wikidata;M;Q7304;way
+Wichernstraße;wikidata;M;Q73048;way
+Schubertstraße;wikidata;M;Q7312;way
+Robert-Schumann-Straße;wikidata;M;Q7351;way
+Osteinstraße;wikidata;M;Q75175;way
+Zeppelinstraße;wikidata;M;Q75780;way
+Nikolaus-Otto-Straße;wikidata;M;Q75782;way
+Lassallestraße;wikidata;M;Q75784;way
+Hölderlinstraße;wikidata;M;Q75889;way
+Elisabeth-Selbert-Straße;wikidata;F;Q75976;way
+Diether-von-Isenburg-Straße ;wikidata;M;Q76264;way
+Dietrich-Bonhoeffer-Straße;wikidata;M;Q76326;way
+Jochen-Klepper-Weg;wikidata;M;Q76329;way
+Paul-Gerhardt-Weg;wikidata;M;Q76331;way
+Ernst-Abbe-Straße;wikidata;M;Q76359;way
+Kardinal-von-Galen-Straße;wikidata;M;Q76439;way
+Rilkeallee;wikidata;M;Q76483;way
+Bebelstraße;wikidata;M;Q76520;way
+Fontanestraße;wikidata;M;Q76632;way
+Friedrich-Naumann-Straße;wikidata;M;Q76811;way
+Carl-Zuckmayer-Straße;wikidata;M;Q76820;way
+Kraeplinweg;wikidata;M;Q76828;way
+Carl-Zeiss-Straße;wikidata;M;Q76833;way
+Boppstraße;wikidata;M;Q76934;way
+Geschwister-Scholl-Straße;wikidata;+;Q76972;way
+Lion-Feuchtwanger-Straße;wikidata;M;Q77024;way
+Turnvater-Jahn-Straße;wikidata;M;Q77098;way
+Jahnstraße;wikidata;M;Q77098;way
+Huttenstraße;wikidata;M;Q77107;way
+Philipp-Reis-Straße;wikidata;M;Q77124;way
+Wilhelm-Maybach-Straße;wikidata;M;Q77125;way
+Eichendorffstraße;wikidata;M;Q77204;way
+Billrothweg;wikidata;M;Q77242;way
+Florian-Geyer-Straße;wikidata;M;Q77407;way
+Hermann-Löns-Straße;wikidata;M;Q77486;way
+Lönsstraße;wikidata;M;Q77486;way
+Willigisplatz ;wikidata;M;Q77564;way
+Willigisstraße ;wikidata;M;Q77564;way
+Fliednerstraße;wikidata;M;Q77814;way
+Hermann-Ehlers-Straße;wikidata;M;Q78425;way
+Stefan-Zweig-Straße;wikidata;M;Q78491;way
+Franz-Werfel-Straße;wikidata;M;Q78514;way
+Barbarossaring;wikidata;M;Q79789;way
+Barbarossastraße;wikidata;M;Q79789;way
+Dr.-Martin-Luther-King-Weg;wikidata;M;Q8027;way
+Brucknerstraße;wikidata;M;Q81752;way
+Pliniusweg;wikidata;M;Q82778;way
+Konstantinweg;wikidata;M;Q8413;way
+Karlsstraße;wikidata;M;Q84201;way
+Lenauweg;wikidata;M;Q84280;way
+Bismarckplatz;wikidata;M;Q8442;way
+Wilhelm-Christ-Straße;wikidata;M;Q85398;way
+Emmerich-Josef-Straße;wikidata;M;Q85483;way
+Emrichruhstraße;wikidata;M;Q85483;way
+Marie-Juchacz-Straße;wikidata;F;Q85820;way
+Parsevalstraße;wikidata;M;Q86573;way
+Greiffenklaustraße ;wikidata;M;Q86787;way
+Ritterstraße;wikidata;M;Q86917;way
+Bodelschwinghstraße;wikidata;M;Q87306;way
+Erthalstraße;wikidata;M;Q87611;way
+Ina-Seidel-Straße;wikidata;F;Q88296;way
+Welschplatz;wikidata;M;Q88651;way
+Welschstraße;wikidata;M;Q88651;way
+Gutenbergplatz ;wikidata;M;Q8958;way
+Gensfleischstraße;wikidata;M;Q8958;way
+Gutenbergstraße;wikidata;M;Q8958;way
+Johannes-Kepler-Straße;wikidata;M;Q8963;way
+Kirsteinstraße;wikidata;M;Q897295;way
+Max-Planck-Straße;wikidata;M;Q9021;way
+Leibnizstraße;wikidata;M;Q9047;way
+Kafkaweg;wikidata;M;Q905;way
+Scheffelstraße;wikidata;M;Q9082;way
+Abraham-Lincoln-Straße;wikidata;M;Q91;way
+Josef-Traxel-Weg;wikidata;M;Q92013;way
+Hanns-Dieter-Hüsch-Weg;wikidata;M;Q92025;way
+Ida-von-Hahn-Straße;wikidata;F;Q92101;way
+Hegelstraße;wikidata;M;Q9235;way
+Kantstraße;wikidata;M;Q9312;way
+Marc-Chagall-Straße;wikidata;M;Q93284;way
+Albert-Einstein-Straße;wikidata;M;Q937;way
+Clarissa-Kupferberg-Platz;wikidata;F;Q94761307;way
+Dietzestraße;wikidata;M;Q94814800;way
+Jakob-Dieterich-Straße;wikidata;M;Q94850985;way
+Gastellstraße;wikidata;M;Q94851008;way
+Pfarrer-Bergmann-Straße;wikidata;M;Q94876598;way
+Hermann-Dexheimer-Weg;wikidata;M;Q94909115;way
+Daniel-Brendel-Straße;wikidata;M;Q95320;way
+Martin-Luther-Straße;wikidata;M;Q9554;way
+Am Kronberger Hof;wikidata;M;Q95563;way
+John-F.-Kennedy-Straße;wikidata;M;Q9696;way
+Ackermannweg;wikidata;M;Q98053;way
+Karl-Zörgiebel-Straße;wikidata;M;Q98104;way
+Ulrichstraße;wikidata;M;Q99431;way
