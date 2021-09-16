@@ -4,9 +4,9 @@ If you want to replicate the EqualStreetNames project in your city, here is the 
 
 ## Setup
 
-1. Click on the "Use this template" button above
+1. Click on the "Use this template" button above ✅
 
-1. Update the *Overpass* queries :
+1. Update the *Overpass* queries : ✅ (Mainz: Q1720, admin level 6)
 
     `overpass/relation-full-json` (*example for Brussels, Belgium*)
 
@@ -22,7 +22,7 @@ If you want to replicate the EqualStreetNames project in your city, here is the 
     + ( area["admin_level"="8"]["wikidata"="Q12994"]; )->.a;
     ```
 
-1. Find the *OpenStreetMap* relation of your city (example, [Brussels, Belgium](https://www.openstreetmap.org/relation/54094))
+1. Find the *OpenStreetMap* relation of your city (example, [Brussels, Belgium](https://www.openstreetmap.org/relation/54094)) ✅ (Mainz: 62630)
 
 1. Update `config.php` configuration file
 
