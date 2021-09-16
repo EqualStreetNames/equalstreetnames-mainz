@@ -24,7 +24,7 @@ If you want to replicate the EqualStreetNames project in your city, here is the 
 
 1. Find the *OpenStreetMap* relation of your city (example, [Brussels, Belgium](https://www.openstreetmap.org/relation/54094)) ✅ (Mainz: 62630)
 
-1. Update `config.php` configuration file
+1. Update `config.php` configuration file ✅
 
     1. **REQUIRED:** Add relation identifier (*example for Brussels, Belgium*).
 
