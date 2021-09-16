@@ -41,7 +41,7 @@ If you want to replicate the EqualStreetNames project in your city, here is the 
 
     1. *Optional:* You can change the Wikidata instances that will be counted as "a person" with `instances`.
 
-1. You can link information to a relation or way using a `data.csv` CSV file (see [Brussels, Belgium CSV file](https://github.com/EqualStreetNames/equalstreetnames-brussels/blob/master/data.csv))
+1. You can link information to a relation or way using a `data.csv` CSV file (see [Brussels, Belgium CSV file](https://github.com/EqualStreetNames/equalstreetnames-brussels/blob/master/data.csv)) ✅ (gender.csv and other.csv)
 
     Structure:
 
@@ -52,7 +52,7 @@ If you want to replicate the EqualStreetNames project in your city, here is the 
     - `person`: Name of the person
     - `description`: Description of the person
 
-1. Update the HTML files (replace `MyCity` by the name of your city in **all** `index.html` files, add languages, ...).
+1. Update the HTML files (replace `MyCity` by the name of your city in **all** `index.html` files, add languages, ...). ✅
 
     (*example for Brussels, Belgium*)
 
