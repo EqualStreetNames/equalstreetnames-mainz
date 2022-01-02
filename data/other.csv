@@ -1,6 +1,5 @@
 name,source,gender,wikidata,type
 Albinistraße,wikidata,,Q27507663,way
-Anselm-Franz-von-Bentzel-Weg,wikidata,,Q27562805,way
 Aspeltstraße,wikidata,,Q27585987,way
 Bacchusstraße,wikidata,,Q645312,way
 Brezelweg,wikidata,,Q160525,way
@@ -12,6 +11,7 @@ Haydnstraße,wikidata,,Q16211552,way
 Jupiterweg,wikidata,,Q4649,way
 Merkurweg,wikidata,,Q308,way
 Rosmerthastraße,wikidata,,Q1118976,way
+"Schiersteiner Brücke",wikidata,,Q478142,way
 Vierzehn-Nothelfer-Straße,wikidata,,Q219014,way
 "117er Ehrenhof",,,,way
 Abtsgasse,,,,way
@@ -29,7 +29,6 @@ Akazienweg,,,,way
 Albanusstraße,,,,way
 Albert-Knoll-Straße,,,,way
 Alexander-Diehl-Straße,,,,way
-Alfred-Rehder-Weg,,,,way
 "Alte Finther Straße",,,,way
 "Alte Gärtnerei",,,,way
 "Alte Heidesheimer Straße",,,,way
@@ -326,13 +325,11 @@ Burgstraße,,,,way
 Burgunderweg,,,,way
 Calaisstraße,,,,way
 Cambridgestraße,,,,way
-Carl-von-Linné-Weg,,,,way
 Catharina-Lothary-Straße,,,,way
 Chattenstraße,,,,way
 Chausseehaus,,,,way
 Christian-Haas-Weg,,,,way
 Christian-Lechleitner-Straße,,,,way
-Colonel-Kleinmann-Weg,,,,way
 Dahlienweg,,,,way
 "Dalheimer Straße",,,,way
 "Dalheimer Weg",,,,way
@@ -512,7 +509,6 @@ Heiliggrabgasse,,,,way
 Heiligkreuzweg,,,,way
 Heimstraße,,,,way
 Heinrich-Freber-Straße,,,,way
-Heinrich-Walter-Weg,,,,way
 Heinz-Lemb-Weg,,,,way
 Heinz-Schier-Platz,,,,way
 Henkackerweg,,,,way
@@ -600,11 +596,9 @@ Jakob-Laubach-Straße,,,,way
 Jakob-Leischner-Straße,,,,way
 Jakob-Nickolaus-Weg,,,,way
 Jakob-Sieben-Straße,,,,way
-Jakob-Welder-Weg,,,,way
 Jakobsbergstraße,,,,way
 Jean-Pierre-Jungels-Straße,,,,way
 "Jenaer Straße",,,,way
-Joachim-Jungius-Weg,,,,way
 Johann-Ambros-Becker-Weg,,,,way
 Johann-Angele-Straße,,,,way
 Johannes-Lüft-Straße,,,,way
@@ -624,7 +618,6 @@ Kardinal-Volk-Platz,,,,way
 Karin-Eckert-Straße,,,,way
 Karl-Trau-Straße,,,,way
 Karl-Weiser-Straße,,,,way
-Karl-von-Goebel-Weg,,,,way
 "Karlsbader Straße",,,,way
 Karmeliterplatz,,,,way
 Karmeliterstraße,,,,way
@@ -723,7 +716,6 @@ Loni-Simon-Weg,,,,way
 Lorenz-Schneider-Straße,,,,way
 "Lorscher Straße",,,,way
 Löwenhofstraße,,,,way
-Ludwig-Diels-Weg,,,,way
 Ludwig-Jahn-Straße,,,,way
 Ludwig-Marx-Straße,,,,way
 Ludwig-Nauth-Straße,,,,way
@@ -847,7 +839,6 @@ Pfarrer-Stockheimer-Straße,,,,way
 Pfarrer-Veller-Straße,,,,way
 Pfarrgasse,,,,way
 Pfarrstraße,,,,way
-Philipp-Franz-von-Siebold-Weg,,,,way
 Philipp-Jakob-Hach-Weg,,,,way
 Platanenstraße,,,,way
 "Platz der Köpfe",,,,way
@@ -919,7 +910,6 @@ Schaftriebweg,,,,way
 Scharfensteinergäßchen,,,,way
 Scharngasse,,,,way
 Scheurebenweg,,,,way
-"Schiersteiner Brücke",,,,way
 Schießgartenstraße,,,,way
 Schifferstraße,,,,way
 Schleifweg,,,,way
@@ -951,8 +941,6 @@ Speßweg,,,,way
 Spitalgasse,,,,way
 Sprinterpfad,,,,way
 Spritzengasse,,,,way
-St.-Georg-Straße,,,,way
-St.-Sebastian-Straße,,,,way
 Stadionerhofstraße,,,,way
 Stadthausstraße,,,,way
 Stahlbergstraße,,,,way

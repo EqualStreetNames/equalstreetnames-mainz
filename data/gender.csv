@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+Hahn-Meitner-Weg,wikidata,+,Q57065;Q56189,way
 Agnes-Karll-Straße,wikidata,F,Q394562,way
 Agnes-Miegel-Straße,wikidata,F,Q67013,way
 Alicenplatz,wikidata,F,Q155566,way
@@ -8,6 +9,7 @@ Annemarie-Renger-Straße,wikidata,F,Q66138,way
 Anni-Eisler-Lehmann-Straße,wikidata,F,Q60841306,way
 Bilhildisstraße,wikidata,F,Q477895,way
 Chana-Kahn-Straße,wikidata,F,Q104807517,way
+Clarissa-Kupferberg-Platz,wikidata,F,Q94761307,way
 Eleonorenstraße,wikidata,F,Q62549,way
 Elisabeth-Langgässer-Straße,wikidata,F,Q68501,way
 Elisabeth-Schwarzhaupt-Straße,wikidata,F,Q65397,way
@@ -65,6 +67,7 @@ Alfred-Delp-Straße,wikidata,M,Q61305,way
 Alfred-Döblin-Straße,wikidata,M,Q57389,way
 Alfred-Mumbächer-Straße,wikidata,M,Q1382401,way
 Alfred-Nobel-Straße,wikidata,M,Q23810,way
+Alfred-Rehder-Weg,wikidata,M,Q68949,way
 Altenauergasse,wikidata,M,Q1692844,way
 "Am Fort Josef",wikidata,M,Q152480,way
 "Am Kronberger Hof",wikidata,M,Q95563,way
@@ -73,6 +76,7 @@ Altenauergasse,wikidata,M,Q1692844,way
 "An der Karlsschanze",wikidata,M,Q150665,way
 "An der Nikolausschanze",wikidata,M,Q44269,way
 "An der Philippsschanze",wikidata,M,Q65766,way
+Anselm-Franz-von-Bentzel-Weg,wikidata,M,Q19501968;Q27562805,way
 Arndtstraße,wikidata,M,Q57351,way
 "Auf dem Albansberg",wikidata,M,Q312982,way
 August-Horch-Straße,wikidata,M,Q58035,way
@@ -104,11 +108,13 @@ Carl-Orff-Straße,wikidata,M,Q44086,way
 Carl-Zeiss-Straße,wikidata,M,Q76833,way
 Carl-Zuckmayer-Straße,wikidata,M,Q76820,way
 Carl-von-Linde-Straße,wikidata,M,Q61864,way
+Carl-von-Linné-Weg,wikidata,M,Q1043,way
 Carlo-Mierendorff-Straße,wikidata,M,Q1042305,way
 Christianstraße,wikidata,M,Q1080417,way
 Christofsgäßchen,wikidata,M,Q193507,way
 Christofsstraße,wikidata,M,Q193507,way
 Clemens-Brentano-Straße,wikidata,M,Q57235,way
+Colonel-Kleinmann-Weg,wikidata,M,Q1642466,way
 Corneliusstraße,wikidata,M,Q57257,way
 Curt-Goetz-Straße,wikidata,M,Q69320,way
 Czernyweg,wikidata,M,Q347292,way
@@ -196,7 +202,6 @@ Grünewaldstraße,wikidata,M,Q154338,way
 Gustav-Mahler-Straße,wikidata,M,Q7304,way
 Gutenbergplatz,wikidata,M,Q8958,way
 Gutenbergstraße,wikidata,M,Q8958,way
-Hahn-Meitner-Weg,wikidata,M,Q57065,way
 Händelstraße,wikidata,M,Q7302,way
 Hanns-Dieter-Hüsch-Weg,wikidata,M,Q92025,way
 Hans-Böckler-Straße,wikidata,M,Q105130,way
@@ -206,6 +211,7 @@ Heckerstraße,wikidata,M,Q216025,way
 Hegelstraße,wikidata,M,Q9235,way
 Heinrich-Heine-Straße,wikidata,M,Q44403,way
 Heinrich-Schrohe-Straße,wikidata,M,Q1462617,way
+Heinrich-Walter-Weg,wikidata,M,Q877690,way
 Heinrich-Wothe-Straße,wikidata,M,Q60841520,way
 Heinrich-von-Brentano-Straße,wikidata,M,Q60954,way
 Heinrich-von-Gagern-Straße,wikidata,M,Q65230,way
@@ -236,6 +242,8 @@ Jacob-Goedecker-Straße,wikidata,M,Q1390536,way
 Jahnstraße,wikidata,M,Q77098,way
 Jakob-Dieterich-Straße,wikidata,M,Q94850985,way
 Jakob-Steffan-Straße,wikidata,M,Q278517,way
+Jakob-Welder-Weg,wikidata,M,Q107190628,way
+Joachim-Jungius-Weg,wikidata,M,Q71026,way
 Jochen-Klepper-Weg,wikidata,M,Q76329,way
 Jockel-Fuchs-Platz,wikidata,M,Q1691256,way
 Johann-Friedrich-von-Pfeiffer-Weg,wikidata,M,Q108704,way
@@ -255,6 +263,7 @@ Kaiserstraße,wikidata,M,Q150652,way
 Kantstraße,wikidata,M,Q9312,way
 Kardinal-von-Galen-Straße,wikidata,M,Q76439,way
 Karl-Zörgiebel-Straße,wikidata,M,Q98104,way
+Karl-von-Goebel-Weg,wikidata,M,Q62756,way
 Karlsstraße,wikidata,M,Q84201,way
 Kerschensteinerstraße,wikidata,M,Q61195,way
 Kettelerstraße,wikidata,M,Q626805,way
@@ -288,6 +297,7 @@ Lorenz-Diehl-Straße,wikidata,M,Q1584800,way
 Lortzingstraße,wikidata,M,Q154203,way
 Lotharstraße,wikidata,M,Q71715,way
 Ludwig-Bamberger-Straße,wikidata,M,Q72400,way
+Ludwig-Diels-Weg,wikidata,M,Q77123,way
 Ludwig-Erhard-Straße,wikidata,M,Q2496,way
 Ludwig-Richter-Straße,wikidata,M,Q551896,way
 Ludwig-Schwamb-Straße,wikidata,M,Q104979,way
@@ -343,6 +353,7 @@ Pfarrer-Bensheimer-Straße,wikidata,M,Q55684755,way
 Pfarrer-Bergmann-Straße,wikidata,M,Q94876598,way
 Pfarrer-Brantzen-Straße,wikidata,M,Q52063284,way
 Pfitznerstraße,wikidata,M,Q57358,way
+Philipp-Franz-von-Siebold-Weg,wikidata,M,Q77140,way
 Philipp-Reis-Straße,wikidata,M,Q77124,way
 Philipp-Wasserburg-Straße,wikidata,M,Q1777180,way
 Philipp-von-Zabern-Platz,wikidata,M,Q55682281,way
@@ -392,6 +403,8 @@ Smetanaweg,wikidata,M,Q48173,way
 Sömmerringplatz,wikidata,M,Q132197,way
 Sömmerringstraße,wikidata,M,Q132197,way
 Spitzwegstraße,wikidata,M,Q164979,way
+St.-Georg-Straße,wikidata,M,Q48438,way
+St.-Sebastian-Straße,wikidata,M,Q183332,way
 Staudingerweg,wikidata,M,Q48956,way
 Stefan-Zweig-Straße,wikidata,M,Q78491,way
 Stefansberg,wikidata,M,Q161775,way
