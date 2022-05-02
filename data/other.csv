@@ -1,14 +1,21 @@
 name,source,gender,wikidata,type
-Albinistraße,wikidata,,Q27507663,way
+"Am Klostergarten",wikidata,,Q320189,way
 Aspeltstraße,wikidata,,Q27585987,way
+Augustinerstraße,wikidata,,Q29075,way
 Bacchusstraße,wikidata,,Q645312,way
 Brezelweg,wikidata,,Q160525,way
 Colmarstraße,wikidata,,Q27604665,way
 Cranachweg,wikidata,,Q56538064,way
 Curiestraße,wikidata,,Q11297474,way
+Feldbergplatz,wikidata,,Q677873,way
 Geschwister-Heinefetter-Platz,wikidata,,Q56827157,way
+Geschwister-Scholl-Straße,wikidata,,Q566212,way
 Haydnstraße,wikidata,,Q16211552,way
 Jupiterweg,wikidata,,Q4649,way
+Kapuzinerstraße,wikidata,,Q107762174,way
+Karmeliterplatz,wikidata,,Q3585896,way
+Karmeliterstraße,wikidata,,Q3585896,way
+Kartäuserstraße,wikidata,,Q2961255,way
 Merkurweg,wikidata,,Q308,way
 Rosmerthastraße,wikidata,,Q1118976,way
 "Schiersteiner Brücke",wikidata,,Q478142,way
@@ -107,7 +114,6 @@ Altmünsterstraße,,,,way
 "Am Kesseltal",,,,way
 "Am Kirchborn",,,,way
 "Am Kleinen Sand",,,,way
-"Am Klostergarten",,,,way
 "Am Kochspfädchen",,,,way
 "Am Königsborn",,,,way
 "Am Kuckucksschlag",,,,way
@@ -266,7 +272,6 @@ Auenstraße,,,,way
 August-Herber-Straße,,,,way
 Augustinergäßchen,,,,way
 Augustinerreul,,,,way
-Augustinerstraße,,,,way
 Bachstraße,,,,way
 Backhaushohl,,,,way
 Backmuhlstraße,,,,way
@@ -396,7 +401,6 @@ Faserschirmweg,,,,way
 Faulhaberstraße,,,,way
 Federgrasweg,,,,way
 Feilkirschshöhe,,,,way
-Feldbergplatz,,,,way
 Feldbergstraße,,,,way
 Feldgartenstraße,,,,way
 Feldherrenstraße,,,,way
@@ -610,19 +614,15 @@ Kannengasse,,,,way
 Kapellenstraße,,,,way
 Kappelhof,,,,way
 Kappelhofgasse,,,,way
-Kapuzinerstraße,,,,way
 Karcherweg,,,,way
 Kardinal-Volk-Platz,,,,way
 Karin-Eckert-Straße,,,,way
 Karl-Trau-Straße,,,,way
 Karl-Weiser-Straße,,,,way
 "Karlsbader Straße",,,,way
-Karmeliterplatz,,,,way
-Karmeliterstraße,,,,way
 Karolingerstraße,,,,way
 Kartaus,,,,way
 Kartäuserreul,,,,way
-Kartäuserstraße,,,,way
 Kastanienweg,,,,way
 Kästrich,,,,way
 Katharina-Friederich-Straße,,,,way
