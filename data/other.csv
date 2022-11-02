@@ -1,25 +1,77 @@
 name,source,gender,wikidata,type
+"Alte Ziegelei",wikidata,,Q15782755,way
 "Am Klostergarten",wikidata,,Q320189,way
+"An den Römersteinen",wikidata,,Q896423,way
+"An der Schanze",wikidata,,Q91203,way
 Aspeltstraße,wikidata,,Q27585987,way
 Augustinerstraße,wikidata,,Q29075,way
 Bacchusstraße,wikidata,,Q645312,way
+Backhaushohl,wikidata,,Q798436,way
+Bahnstraße,wikidata,,Q3565868,way
+"Beuthener Straße",wikidata,,Q102350,way
+"Bretzenheimer Straße",wikidata,,Q1885689,way
 Brezelweg,wikidata,,Q160525,way
 Colmarstraße,wikidata,,Q27604665,way
 Cranachweg,wikidata,,Q56538064,way
 Curiestraße,wikidata,,Q11297474,way
+Deutschhausplatz,wikidata,,Q530788,way
+"Draiser Straße",wikidata,,Q883326,way
+Drechslerweg,wikidata,,Q1716419,way
+Elsterweg,wikidata,,Q25307,way
+Emausweg,wikidata,,Q165887,way
+"Essenheimer Straße",wikidata,,Q572400,way
+Färberweg,wikidata,,Q6147194,way
 Feldbergplatz,wikidata,,Q677873,way
+Feldbergstraße,wikidata,,Q677873,way
+Fischtorplatz,wikidata,,Q1420456,way
 Geschwister-Heinefetter-Platz,wikidata,,Q56827157,way
 Geschwister-Scholl-Straße,wikidata,,Q566212,way
+"Gleiwitzer Straße",wikidata,,Q105084,way
+"Große Bleiche",wikidata,,Q98525431,way
+Gürtlerstraße,wikidata,,Q17305604,way
+Haifa-Allee,wikidata,,Q41621,way
 Haydnstraße,wikidata,,Q16211552,way
+"Hintere Bleiche",wikidata,,Q98525431,way
+Ignazgäßchen,wikidata,,Q879179,way
 Jupiterweg,wikidata,,Q4649,way
 Kapuzinerstraße,wikidata,,Q107762174,way
 Karmeliterplatz,wikidata,,Q3585896,way
 Karmeliterstraße,wikidata,,Q3585896,way
 Kartäuserstraße,wikidata,,Q2961255,way
+"Königshütter Straße",wikidata,,Q104302,way
+Küferweg,wikidata,,Q38883,way
+Lahnstraße,wikidata,,Q103148,way
+Landwehrweg,wikidata,,Q749151,way
+"Liegnitzer Straße",wikidata,,Q106274,way
+Mainstraße,wikidata,,Q1670,way
+"Marienborner Straße",wikidata,,Q1682363,way
 Merkurweg,wikidata,,Q308,way
+"Mittlere Bleiche",wikidata,,Q98525431,way
+Nahestraße,wikidata,,Q168696,way
+Neckarstraße,wikidata,,Q1673,way
+Neubrunnenstraße,wikidata,,Q1662651,way
+"Obere Zahlbacher Straße",wikidata,,Q140605,way
+Oderstraße,wikidata,,Q552,way
+"Oppelner Straße",wikidata,,Q92212,way
+"Platz der Mainzer Republik",wikidata,,Q706691,way
+Plesserstraße,wikidata,,Q948304,way
+Rathausstraße,wikidata,,Q543654,way
+Rheinallee,wikidata,,Q584,way
+Rheinstraße,wikidata,,Q584,way
 Rosmerthastraße,wikidata,,Q1118976,way
+Sattlerweg,wikidata,,Q1760988,way
 "Schiersteiner Brücke",wikidata,,Q478142,way
+"Schlesische Straße",wikidata,,Q81720,way
+Schülerpfad,wikidata,,Q48942,way
+"Schweidnitzer Straße",wikidata,,Q387396,way
+Taunusstraße,wikidata,,Q158884,way
+Templergasse,wikidata,,Q41300,way
+Templerstraße,wikidata,,Q41300,way
+Uferstraße,wikidata,,Q468756,way
 Vierzehn-Nothelfer-Straße,wikidata,,Q219014,way
+Weichselstraße,wikidata,,Q548,way
+"Zahlbacher Steig",wikidata,,Q140605,way
+Ziegeleipfad,wikidata,,Q15782755,way
 "117er Ehrenhof",,,,way
 Abtsgasse,,,,way
 Acker,,,,way
@@ -33,14 +85,13 @@ Aenne-Ludwig-Straße,,,,way
 Ahornstraße,,,,way
 Akademieweg,,,,way
 Akazienweg,,,,way
-Albanusstraße,,,,way
 Albert-Knoll-Straße,,,,way
 Alexander-Diehl-Straße,,,,way
 "Alte Finther Straße",,,,way
 "Alte Gärtnerei",,,,way
+"Alte Heidesheimer Straße",,,,way
 "Alte Mainzer Straße",,,,way
 "Alte Markthalle",,,,way
-"Alte Ziegelei",,,,way
 "Alter Karcherweg",,,,way
 "Alter Sandkauter Weg",,,,way
 Alteruhweg,,,,way
@@ -97,7 +148,6 @@ Altmünsterstraße,,,,way
 "Am Haidenkeller",,,,way
 "Am Hang",,,,way
 "Am Hechenberg",,,,way
-"Am Heckerpfad",,,,way
 "Am Heiligenhaus",,,,way
 "Am Hemel",,,,way
 "Am Hessendenkmal",,,,way
@@ -203,7 +253,6 @@ Amselweg,,,,way
 "An den Mühlwegen",,,,way
 "An den Platzäckern",,,,way
 "An den Reben",,,,way
-"An den Römersteinen",,,,way
 "An den Sandkauten",,,,way
 "An den Weiden",,,,way
 "An der Allee",,,,way
@@ -238,7 +287,6 @@ Amselweg,,,,way
 "An der Prall",,,,way
 "An der Riegelspforte",,,,way
 "An der Sandflora",,,,way
-"An der Schanze",,,,way
 "An der Schlehenhecke",,,,way
 "An der Steige",,,,way
 "An der Turnhalle",,,,way
@@ -272,13 +320,12 @@ Auenstraße,,,,way
 August-Herber-Straße,,,,way
 Augustinergäßchen,,,,way
 Augustinerreul,,,,way
+"Außenbereich Zentralmensa",,,,way
 Bachstraße,,,,way
-Backhaushohl,,,,way
 Backmuhlstraße,,,,way
 Badergasse,,,,way
 Bahnhofplatz,,,,way
 Bahnhofstraße,,,,way
-Bahnstraße,,,,way
 Bahnweg,,,,way
 Ballplatz,,,,way
 Balthasar-Becker-Weg,,,,way
@@ -296,7 +343,6 @@ Bergweg,,,,way
 Bernhard-Winter-Straße,,,,way
 Bettelpfad,,,,way
 Betzelsstraße,,,,way
-"Beuthener Straße",,,,way
 Bierothstraße,,,,way
 "Binger Straße",,,,way
 Birkenstraße,,,,way
@@ -314,7 +360,6 @@ Braunwiesstraße,,,,way
 "Breite Straße",,,,way
 "Breiter Weg",,,,way
 "Breslauer Straße",,,,way
-"Bretzenheimer Straße",,,,way
 "Bretzenheimer Weg",,,,way
 Brunnenstraße,,,,way
 Buchenweg,,,,way
@@ -341,7 +386,6 @@ Dammweg,,,,way
 Dampfbahnweg,,,,way
 Dekan-Laist-Straße,,,,way
 Deutschhausgasse,,,,way
-Deutschhausplatz,,,,way
 Dijonstraße,,,,way
 Doktor-Heinrich-Rosenhaupt-Straße,,,,way
 Dombaumeister-Schneider-Straße,,,,way
@@ -357,9 +401,7 @@ Dr.-Berta-Erlanger-Platz,,,,way
 Dr.-Erich-Jung-Straße,,,,way
 Dr.-Friedrich-Kirchhoff-Straße,,,,way
 Dr.-Gisela-Thews-Platz,,,,way
-"Draiser Straße",,,,way
 "Draiser Weg",,,,way
-Drechslerweg,,,,way
 "Dresdener Straße",,,,way
 Drosselweg,,,,way
 "Ebersheimer Straße",,,,way
@@ -376,8 +418,6 @@ Eisgrubweg,,,,way
 Elbestraße,,,,way
 Elisabethenstraße,,,,way
 Ellenbogenstraße,,,,way
-Elsterweg,,,,way
-Emausweg,,,,way
 Emil-Kraus-Weg,,,,way
 Engelgasse,,,,way
 Engelstraße,,,,way
@@ -389,19 +429,16 @@ Erbacherhofgasse,,,,way
 Erich-Koch-Höhenweg,,,,way
 Erlenweg,,,,way
 Eschenweg,,,,way
-"Essenheimer Straße",,,,way
 "Eupener Straße",,,,way
 Europaplatz,,,,way
 Faberrebenweg,,,,way
 Falkensteinerstraße,,,,way
 Fanny-de-la-Roche-Weg,,,,way
-Färberweg,,,,way
 Färchergäßchen,,,,way
 Faserschirmweg,,,,way
 Faulhaberstraße,,,,way
 Federgrasweg,,,,way
 Feilkirschshöhe,,,,way
-Feldbergstraße,,,,way
 Feldgartenstraße,,,,way
 Feldherrenstraße,,,,way
 Ferdinand-Secker-Straße,,,,way
@@ -409,7 +446,6 @@ Finkenstraße,,,,way
 "Finther Landstraße",,,,way
 "Finther Pfad",,,,way
 Fischergasse,,,,way
-Fischtorplatz,,,,way
 Fischtorstraße,,,,way
 Flachsmarkt,,,,way
 Flachsmarktstraße,,,,way
@@ -427,7 +463,6 @@ Franziskanerstraße,,,,way
 Friedensstraße,,,,way
 Friedhofstraße,,,,way
 Friedrich-Koenig-Straße,,,,way
-Fritz-Arens-Platz,,,,way
 Fritz-Fuchs-Weg,,,,way
 Fritz-Kohl-Straße,,,,way
 Froschmarkt,,,,way
@@ -448,12 +483,10 @@ Gemeindehohl,,,,way
 Georg-Fröhder-Straße,,,,way
 Georg-Schrank-Straße,,,,way
 "Geraer Straße",,,,way
-Gerhard-Walter-Bornmann-Brücke,,,,way
 Geschwister-Heunfetter-Platz,,,,way
 Gewerbestraße,,,,way
 "Ginsheimer Straße",,,,way
 Gleisbergweg,,,,way
-"Gleiwitzer Straße",,,,way
 Glühwürmchenweg,,,,way
 Goldammerweg,,,,way
 Goldenbrunnengasse,,,,way
@@ -473,19 +506,16 @@ Grenzweg,,,,way
 Grillenweg,,,,way
 Groß-Gerauer-Straße,,,,way
 Großbergpark,,,,way
-"Große Bleiche",,,,way
 "Große Langgasse",,,,way
 "Große Rondellschneise",,,,way
 "Große Weißgasse",,,,way
 Großgewann,,,,way
 "Grünberger Straße",,,,way
 "Grüne Brücke",,,,way
-Gürtlerstraße,,,,way
 "Gustavsburger Weg",,,,way
 Gymnasiumstraße,,,,way
 Hafenstraße,,,,way
 Häfnerstraße,,,,way
-Haifa-Allee,,,,way
 Hänleingäßchen,,,,way
 Hanns-Dieter-Hüsch-Brücke,,,,way
 Hans-Schaubruch-Weg,,,,way
@@ -501,7 +531,6 @@ Hattenbergstraße,,,,way
 "Hauptbahnhof M",,,,way
 "Hauptbahnhof S",,,,way
 "Hauptbahnhof West / Mainzer Taubertsbergbad",,,,way
-"Hauptbahnhof West / ­Mainzer Taubertsbergbad",,,,way
 Hauptfriedhof/Blindenzentrum,,,,way
 Hauptstraße,,,,way
 Hauweg,,,,way
@@ -529,7 +558,6 @@ Hinkelsteinerstraße,,,,way
 "Hinter der Hecke",,,,way
 "Hinter der Kapelle",,,,way
 "Hinter der Kirche",,,,way
-"Hintere Bleiche",,,,way
 "Hintere Flachsmarktstraße",,,,way
 "Hintere Talstraße",,,,way
 "Hinterer Heuergrund",,,,way
@@ -555,7 +583,6 @@ Hugo-Eckener-Straße,,,,way
 Hummelweg,,,,way
 Hunsrückstraße,,,,way
 Huxelrebenweg,,,,way
-Ignazgäßchen,,,,way
 Illstraße,,,,way
 "Im Borner Grund",,,,way
 "Im Brühl",,,,way
@@ -581,6 +608,7 @@ Immenhof,,,,way
 "In den Neun Morgen",,,,way
 "In den Obstanlagen",,,,way
 "In den Teilern",,,,way
+"In den Weinbergen",,,,way
 "In der Anlage",,,,way
 "In der Dalheimer Wiese",,,,way
 "In der Klauer",,,,way
@@ -657,7 +685,6 @@ Klemensstraße,,,,way
 Klosterstraße,,,,way
 "Koblenzer Straße",,,,way
 "Königsberger Straße",,,,way
-"Königshütter Straße",,,,way
 Köppelstraße,,,,way
 Koppernweg,,,,way
 Korbgasse,,,,way
@@ -670,15 +697,12 @@ Kreuzschanze,,,,way
 Kreuzstraße,,,,way
 Krokusweg,,,,way
 Kronenstraße,,,,way
-Küferweg,,,,way
 Kuhweg,,,,way
 Kupferbergterrasse,,,,way
 Kurfürstenstraße,,,,way
 Kurmainzstraße,,,,way
-Lahnstraße,,,,way
 Lambertstraße,,,,way
 "Landtag B",,,,way
-Landwehrweg,,,,way
 Langensumpfweg,,,,way
 Langentalstraße,,,,way
 "Langer Hunikelweg",,,,way
@@ -702,7 +726,6 @@ Letzenbachweg,,,,way
 Libellenweg,,,,way
 Liebfrauenplatz,,,,relation+way
 Liebfrauenstraße,,,,way
-"Liegnitzer Straße",,,,way
 Lilienweg,,,,way
 Lina-Bucksath-Straße,,,,way
 Lindengasse,,,,way
@@ -721,7 +744,6 @@ Ludwig-Nauth-Straße,,,,way
 Ludwigsschneise,,,,way
 Maiglöckchenweg,,,,way
 Mailandsgasse,,,,way
-Mainstraße,,,,way
 Mainz-Waggonfabrik,,,,way
 "Mainzer Straße",,,,way
 "Malakoff Passage",,,,way
@@ -730,7 +752,6 @@ Maletenstraße,,,,way
 Margraf-Fischer-Siedlung,,,,way
 Maria-Einsmann-Platz,,,,way
 "Marienborner Bergweg",,,,way
-"Marienborner Straße",,,,way
 Marienhofstraße,,,,way
 Markt,,,,way
 Marktplatz,,,,way
@@ -752,7 +773,6 @@ Mittelstraße,,,,way
 Mittelweg,,,,way
 Mitternacht,,,,way
 Mitternachtsgasse,,,,way
-"Mittlere Bleiche",,,,way
 "Mittlere Talstraße",,,,way
 "Mittlerer Heuweg",,,,way
 Möhnstraße,,,,way
@@ -774,16 +794,13 @@ Münsterplatz,,,,way
 Münsterstraße,,,,way
 Nachtigallenweg,,,,way
 "Nackenheimer Straße",,,,way
-Nahestraße,,,,way
 Nasengäßchen,,,,way
-Neckarstraße,,,,way
 Neideckerstraße,,,,way
 Neißestraße,,,,way
 Nelkenweg,,,,way
 Nerobergstraße,,,,way
 Nerotalstraße,,,,way
 Neubrunnenplatz,,,,relation
-Neubrunnenstraße,,,,way
 "Neue Mainzer Straße",,,,way
 "Neue Rheingaustraße",,,,way
 "Neue Universitätsstraße",,,,way
@@ -799,15 +816,12 @@ Nordstraße,,,,way
 "Obere Austraße",,,,way
 "Obere Bogenstraße",,,,way
 "Obere Kreuzstraße",,,,way
-"Obere Zahlbacher Straße",,,,way
 "Oberer Dorfgraben",,,,way
 "Oberer Laubenheimer Weg",,,,way
 "Oberer Mühlrech",,,,way
 Odenwaldstraße,,,,way
-Oderstraße,,,,way
 Ölgasse,,,,way
 Ölwiesenstraße,,,,way
-"Oppelner Straße",,,,way
 "Oppenheimer Straße",,,,way
 Oranienschneise,,,,way
 Oranienstraße,,,,way
@@ -840,8 +854,6 @@ Pfarrstraße,,,,way
 Philipp-Jakob-Hach-Weg,,,,way
 Platanenstraße,,,,way
 "Platz der Köpfe",,,,way
-"Platz der Mainzer Republik",,,,way
-Plesserstraße,,,,way
 Portlandstraße,,,,way
 Poststraße,,,,way
 Probststraße,,,,way
@@ -853,7 +865,6 @@ Quellenweg,,,,way
 Quellwiesstraße,,,,way
 Radweg,,,,way
 Rathausbrücke,,,,way
-Rathausstraße,,,,way
 Raupelsweg,,,,way
 Rebstockplatz,,,,way
 Reichklarastraße,,,,way
@@ -866,12 +877,10 @@ Rektor-Forestier-Straße,,,,way
 Rektor-Preller-Straße,,,,way
 Rentengasse,,,,way
 Reulchen,,,,way
-Rheinallee,,,,way
 Rheingaublick,,,,way
 "Rheingauer Straße",,,,way
 Rheingauwall,,,,way
 Rheinhessenstraße,,,,way
-Rheinstraße,,,,way
 Rheintalstraße,,,,way
 Rhönstraße,,,,way
 Riedstraße,,,,way
@@ -902,7 +911,6 @@ Salmengäßchen,,,,way
 Sandmühlweg,,,,way
 Sandveilchenweg,,,,way
 Sandweg,,,,way
-Sattlerweg,,,,way
 Sauerwiese,,,,way
 Schaftriebweg,,,,way
 Scharfensteinergäßchen,,,,way
@@ -911,19 +919,16 @@ Scheurebenweg,,,,way
 Schießgartenstraße,,,,way
 Schifferstraße,,,,way
 Schleifweg,,,,way
-"Schlesische Straße",,,,way
 Schlossergasse,,,,way
 Schmetterlingweg,,,,way
 Schmiedegasse,,,,way
 Schnierriemengewannweg,,,,way
 Schönbergstraße,,,,way
-Schülerpfad,,,,way
 Schulgäßchen,,,,way
 Schulstraße,,,,way
 Schusterstraße,,,,way
 Schwarzwaldstraße,,,,way
 Schwedenstraße,,,,way
-"Schweidnitzer Straße",,,,way
 Schwester-Hedwig-Janson-Weg,,,,way
 Seilergasse,,,,way
 Seminarstraße,,,,way
@@ -959,10 +964,7 @@ Synagogenstraße,,,,way
 Talstraße,,,,way
 Tannenweg,,,,way
 Tanzplatz,,,,way
-Taunusstraße,,,,way
 Teichstraße,,,,way
-Templergasse,,,,way
-Templerstraße,,,,way
 Terrassenstraße,,,,way
 Teufelskaute,,,,way
 Theo-Riedel-Weg,,,,way
@@ -980,7 +982,6 @@ Tuchbleiche,,,,way
 Tulpenweg,,,,way
 Turmstraße,,,,way
 Turnerstraße,,,,way
-Uferstraße,,,,way
 Uhlerbornstraße,,,,way
 Ulmenstraße,,,,way
 Umbach,,,,way
@@ -1014,7 +1015,6 @@ Wassergasse,,,,way
 Watfordstraße,,,,way
 Weberstraße,,,,way
 Weedengasse,,,,way
-Weichselstraße,,,,way
 Weidstraße,,,,way
 Weifert-Janz-Straße,,,,way
 Weihergarten,,,,way
@@ -1051,14 +1051,12 @@ Wolfgang-Brobeil-Straße,,,,way
 Wolfsgäßchen,,,,way
 "Wormser Straße",,,,way
 ZDF-Straße,,,,way
-"Zahlbacher Steig",,,,way
 Zanggasse,,,,way
 Zaybachstraße,,,,way
 Zedernweg,,,,way
 Zeisigweg,,,,way
 Zeughausgasse,,,,way
 Zeystraße,,,,way
-Ziegeleipfad,,,,way
 Zimmermannsgasse,,,,way
 Zitadelle,,,,way
 Zitadellengraben,,,,way
