@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 "Alte Ziegelei",wikidata,,Q15782755,way
+Altkönigstraße,wikidata,,Q442204,way
 "Am Klostergarten",wikidata,,Q320189,way
 "An den Römersteinen",wikidata,,Q896423,way
 "An der Schanze",wikidata,,Q91203,way
@@ -11,6 +12,7 @@ Bahnstraße,wikidata,,Q3565868,way
 "Beuthener Straße",wikidata,,Q102350,way
 "Bretzenheimer Straße",wikidata,,Q1885689,way
 Brezelweg,wikidata,,Q160525,way
+Buchenweg,wikidata,,Q25403,way
 Colmarstraße,wikidata,,Q27604665,way
 Cranachweg,wikidata,,Q56538064,way
 Curiestraße,wikidata,,Q11297474,way
@@ -38,6 +40,7 @@ Kapuzinerstraße,wikidata,,Q107762174,way
 Karmeliterplatz,wikidata,,Q3585896,way
 Karmeliterstraße,wikidata,,Q3585896,way
 Kartäuserstraße,wikidata,,Q2961255,way
+"Klein-Winternheimer Straße",wikidata,,Q630978,way
 "Königshütter Straße",wikidata,,Q104302,way
 Küferweg,wikidata,,Q38883,way
 Lahnstraße,wikidata,,Q103148,way
@@ -71,6 +74,7 @@ Uferstraße,wikidata,,Q468756,way
 Vierzehn-Nothelfer-Straße,wikidata,,Q219014,way
 Weichselstraße,wikidata,,Q548,way
 "Zahlbacher Steig",wikidata,,Q140605,way
+Zedernweg,wikidata,,Q128550,way
 Ziegeleipfad,wikidata,,Q15782755,way
 "117er Ehrenhof",,,,way
 Abtsgasse,,,,way
@@ -95,7 +99,6 @@ Alexander-Diehl-Straße,,,,way
 "Alter Karcherweg",,,,way
 "Alter Sandkauter Weg",,,,way
 Alteruhweg,,,,way
-Altkönigstraße,,,,way
 Altmünsterstraße,,,,way
 "Am 87er Denkmal",,,,way
 "Am Alten Flugplatz",,,,way
@@ -364,7 +367,6 @@ Braunwiesstraße,,,,way
 "Breslauer Straße",,,,way
 "Bretzenheimer Weg",,,,way
 Brunnenstraße,,,,way
-Buchenweg,,,,way
 "Budenheimer Straße",,,,way
 "Budenheimer Weg",,,,way
 "Büdinger Straße",,,,way
@@ -523,7 +525,6 @@ Hanns-Dieter-Hüsch-Brücke,,,,way
 Hans-Schaubruch-Weg,,,,way
 Hans-Stenner-Straße,,,,way
 Hans-Zöller-Straße,,,,way
-Hartenberg-Trail,,,,way
 Hartmühlenweg,,,,way
 "Harxheimer Weg",,,,way
 Hattenbergstraße,,,,way
@@ -672,7 +673,6 @@ Kirchstraße,,,,way
 Kirschblütenweg,,,,way
 Kirschgarten,,,,way
 Klauerstraße,,,,way
-"Klein-Winternheimer Straße",,,,way
 "Klein-Winternheimer Weg",,,,way
 "Kleine Bogenstraße",,,,way
 "Kleine Langgasse",,,,way
@@ -1057,7 +1057,6 @@ Wolfsgäßchen,,,,way
 ZDF-Straße,,,,way
 Zanggasse,,,,way
 Zaybachstraße,,,,way
-Zedernweg,,,,way
 Zeisigweg,,,,way
 Zeughausgasse,,,,way
 Zeystraße,,,,way
