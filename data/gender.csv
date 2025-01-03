@@ -1,10 +1,11 @@
 name,source,gender,wikidata,type
 Hahn-Meitner-Weg,wikidata,+,Q57065;Q56189,way
+Annemarie-Renger-Straße,wikidata,?,Q159995;Q66138,way
 Agnes-Karll-Straße,wikidata,F,Q394562,way
 Alicenplatz,wikidata,F,Q155566,way
 Alicenstraße,wikidata,F,Q155566,way
+Anna-Luise-Heygster-Straße,wikidata,F,Q113789603,way
 Anna-Seghers-Platz,wikidata,F,Q57393,way
-Annemarie-Renger-Straße,wikidata,F,Q66138,way
 Anni-Eisler-Lehmann-Straße,wikidata,F,Q60841306,way
 Betty-Winterfeld-Straße,wikidata,F,Q67013,way
 Bilhildisstraße,wikidata,F,Q477895,way
@@ -20,6 +21,7 @@ Elsa-Brändström-Straße,wikidata,F,Q469673,way
 Emy-Roeder-Straße,wikidata,F,Q462615,way
 Fastradaweg,wikidata,F,Q241165,way
 Franziska-Kessel-Straße,wikidata,F,Q1389045,way
+Henriette-Arendt-Weg,wikidata,F,Q1606143,way
 Hildegard-von-Bingen-Straße,wikidata,F,Q70991,way
 Hildegardstraße,wikidata,F,Q70991,way
 Ida-von-Hahn-Straße,wikidata,F,Q92101,way
@@ -34,6 +36,7 @@ Lise-Meitner-Straße,wikidata,F,Q56189,way
 Lucy-Hillebrand-Straße,wikidata,F,Q112007,way
 Luisenstraße,wikidata,F,Q156723,way
 Margaretengasse,wikidata,F,Q297742,way
+Maria-Einsmann-Platz,wikidata,F,Q125150690,way
 Maria-Sibylla-Merian-Straße,wikidata,F,Q62530,way
 Maria-Ward-Straße,wikidata,F,Q291061,way
 Marie-Juchacz-Straße,wikidata,F,Q85820,way
@@ -94,7 +97,7 @@ Bebelstraße,wikidata,M,Q76520,way
 Beethovenstraße,wikidata,M,Q255,way
 Benjamin-Franklin-Straße,wikidata,M,Q34969,way
 Bert-Brecht-Straße,wikidata,M,Q38757,way
-Bismarckplatz,wikidata,M,Q8442,way
+Bismarckplatz,wikidata,M,Q8442,relation+way
 Bodelschwinghstraße,wikidata,M,Q87306,way
 Bonifaziusplatz,wikidata,M,Q160445,way
 Bonifaziusstraße,wikidata,M,Q160445,way
@@ -194,7 +197,6 @@ George-Washington-Straße,wikidata,M,Q23,way
 Gerhard-Walter-Bornmann-Brücke,wikidata,M,Q94807642,way
 Gerhart-Hauptmann-Straße,wikidata,M,Q43523,way
 Germanikusstraße,wikidata,M,Q191039,way
-Goetheplatz,wikidata,M,Q5879,way
 Goethestraße,wikidata,M,Q5879,way
 Goetzstraße,wikidata,M,Q1405324,way
 Görresstraße,wikidata,M,Q215730,way
@@ -240,6 +242,7 @@ Hochgesandstraße,wikidata,M,Q60841355,way
 Hölderlinstraße,wikidata,M,Q75889,way
 Holsteinstraße,wikidata,M,Q1597956,way
 Huttenstraße,wikidata,M,Q77107,way
+"Im Töngeshof",wikidata,M,Q170547,relation
 Immelmannstraße,wikidata,M,Q57937,way
 "In der Töngeswiese",wikidata,M,Q170547,way
 Ingelheimstraße,wikidata,M,Q316725,way
@@ -383,6 +386,7 @@ Rolf-Balsam-Straße,wikidata,M,Q60831992,way
 Romano-Guardini-Platz,wikidata,M,Q44872,way
 Röntgenstraße,wikidata,M,Q35149,way
 Rubensallee,wikidata,M,Q5599,way
+Rudolf-Crisolli-Straße,wikidata,M,Q1805818,way
 Rudolf-Diesel-Straße,wikidata,M,Q12674,way
 Salvatorstraße,wikidata,M,Q302,way
 Sauerbruchstraße,wikidata,M,Q62330,way
@@ -462,6 +466,7 @@ Willy-Brandt-Platz,wikidata,M,Q2514,way
 Windthorststraße,wikidata,M,Q533645,way
 Wittichweg,wikidata,M,Q56026824,way
 Wöhlerstraße,wikidata,M,Q58575,way
+Wolfgang-Brobeil-Straße,wikidata,M,Q24262993,way
 Woynastraße,wikidata,M,Q16112805,way
 Xaveriusweg,wikidata,M,Q163900,way
 Zeppelinstraße,wikidata,M,Q75780,way
