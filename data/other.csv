@@ -121,7 +121,7 @@ Altmünsterstraße,,,,way
 "Am Bornberg",,,,way
 "Am Borner Weg",,,,way
 "Am Bornwald",,,,way
-"Am Brand",,,,way
+"Am Brand",,,,relation+way
 "Am Dalheimer Kloster",,,,way
 "Am Damsberg",,,,way
 "Am Draisberg",,,,way
@@ -645,7 +645,6 @@ Kappelhof,,,,way
 Kappelhofgasse,,,,way
 Karcherweg,,,,way
 Kardinal-Volk-Platz,,,,way
-Karidnal-Volk-Platz,,,,way
 Karin-Eckert-Straße,,,,way
 Karl-Trau-Straße,,,,way
 Karl-Weiser-Straße,,,,way
@@ -961,7 +960,7 @@ Suderstraße,,,,way
 Südoststraße,,,,way
 Südring,,,,way
 Südstraße,,,,way
-Synagogenplatz,,,,way
+Synagogenplatz,,,,relation+way
 Synagogenstraße,,,,way
 Talstraße,,,,way
 Tannenweg,,,,way
