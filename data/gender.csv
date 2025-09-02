@@ -1,13 +1,12 @@
 name,source,gender,wikidata,type
 Hahn-Meitner-Weg,wikidata,+,Q57065;Q56189,way
-Annemarie-Renger-Straße,wikidata,?,Q159995;Q66138,way
 Agnes-Karll-Straße,wikidata,F,Q394562,way
 Alicenplatz,wikidata,F,Q155566,way
 Alicenstraße,wikidata,F,Q155566,way
 Anna-Luise-Heygster-Straße,wikidata,F,Q113789603,way
 Anna-Seghers-Platz,wikidata,F,Q57393,way
+Annemarie-Renger-Straße,wikidata,F,Q66138,way
 Anni-Eisler-Lehmann-Straße,wikidata,F,Q60841306,way
-Betty-Winterfeld-Straße,wikidata,F,Q67013,way
 Bilhildisstraße,wikidata,F,Q477895,way
 Chana-Kahn-Straße,wikidata,F,Q104807517,way
 Clarissa-Kupferberg-Platz,wikidata,F,Q94761307,way
@@ -36,7 +35,7 @@ Lise-Meitner-Straße,wikidata,F,Q56189,way
 Lucy-Hillebrand-Straße,wikidata,F,Q112007,way
 Luisenstraße,wikidata,F,Q156723,way
 Margaretengasse,wikidata,F,Q297742,way
-Maria-Einsmann-Platz,wikidata,F,Q125150690,way
+Maria-Einsmann-Platz,wikidata,F,Q125150690,relation
 Maria-Sibylla-Merian-Straße,wikidata,F,Q62530,way
 Maria-Ward-Straße,wikidata,F,Q291061,way
 Marie-Juchacz-Straße,wikidata,F,Q85820,way
@@ -169,7 +168,7 @@ Franz-Anton-Hermann-Straße,wikidata,M,Q55875745,way
 Franz-Liszt-Straße,wikidata,M,Q41309,way
 Franz-Werfel-Straße,wikidata,M,Q78514,way
 Frauenlobplatz,wikidata,M,Q62702,way
-Frauenlobstraße,wikidata,M,Q160445;Q62702,way
+Frauenlobstraße,wikidata,M,Q62702,way
 Freiherr-vom-Stein-Straße,wikidata,M,Q213542,way
 Freiligrathstraße,wikidata,M,Q213719,way
 Friedrich-Ebert-Platz,wikidata,M,Q2646,way
@@ -225,6 +224,7 @@ Heinrich-von-Brentano-Straße,wikidata,M,Q60954,way
 Heinrich-von-Gagern-Straße,wikidata,M,Q65230,way
 Heinrich-von-Meißen-Straße,wikidata,M,Q62702,way
 Heinrich-von-Stephan-Straße,wikidata,M,Q215482,way
+Heinz-Schier-Platz,wikidata,M,Q133062066,way
 Helmholtzweg,wikidata,M,Q60024,way
 Helmut-Kohl-Platz,wikidata,M,Q2518,way
 Henri-Dunant-Straße,wikidata,M,Q12091,way
@@ -339,7 +339,8 @@ Nikolaus-Otto-Straße,wikidata,M,Q75782,way
 Nikolausstraße,wikidata,M,Q44269,way
 Nino-Erné-Straße,wikidata,M,Q111000,way
 Oechsnerstraße,wikidata,M,Q1270967,way
-Osteinstraße,wikidata,M,Q160445;Q75175,way
+Osteinstraße,wikidata,M,Q75175,way
+Osteinunterführung,wikidata,M,Q75175,way
 Otto-Brunfels-Schneise,wikidata,M,Q63206,way
 Otto-Hahn-Straße,wikidata,M,Q57065,way
 Otto-Schott-Straße,wikidata,M,Q72357,way
@@ -373,7 +374,7 @@ Raimundistraße,wikidata,M,Q454789,way
 Rathenaustraße,wikidata,M,Q135645,way
 Regerstraße,wikidata,M,Q57139,way
 Rembrandtstraße,wikidata,M,Q5598,way
-Rhabanusstraße,wikidata,M,Q160441;Q160445,way
+Rhabanusstraße,wikidata,M,Q160441,way
 Richard-Schirrmann-Straße,wikidata,M,Q63862,way
 Richard-Wagner-Straße,wikidata,M,Q1511,way
 Rilkeallee,wikidata,M,Q76483,way

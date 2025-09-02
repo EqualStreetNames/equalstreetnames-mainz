@@ -354,9 +354,11 @@ Bergweg,,,,way
 "Berliner Straße",,,,way
 Bernhard-Winter-Straße,,,,way
 Bettelpfad,,,,way
+Betty-Winterfeld-Straße,,,,way
 Betzelsstraße,,,,way
 Bierothstraße,,,,way
 "Binger Straße",,,,way
+Bingerstr.,,,,way
 Birkenstraße,,,,way
 "Bischheimer Weg",,,,way
 Bischofsplatz,,,,way
@@ -545,7 +547,6 @@ Heiligkreuzweg,,,,way
 Heimstraße,,,,way
 Heinrich-Freber-Straße,,,,way
 Heinz-Lemb-Weg,,,,way
-Heinz-Schier-Platz,,,,way
 Henry-Moisand-Straße,,,,way
 Heringsbrunnengasse,,,,way
 Hermann-Löns-Weg,,,,way
@@ -718,7 +719,7 @@ Laurentiusstraße,,,,way
 "Layenhöfer Chaussee",,,,way
 Layenhofstraße,,,,way
 Leichbornweg,,,,way
-Leichhof,,,,way
+Leichhof,,,,relation+way
 Leichhofstraße,,,,way
 Lengesstraße,,,,way
 Lennebergplatz,,,,way
@@ -827,7 +828,6 @@ Odenwaldstraße,,,,way
 Oranienschneise,,,,way
 Oranienstraße,,,,way
 Orchideenweg,,,,way
-Osteinunterführung,,,,way
 Ottl-Beck-Kreisel,,,,way
 Palmenstraße,,,,way
 Palmenweg,,,,way
