@@ -1,89 +1,4 @@
 name,source,gender,wikidata,type
-"Alte Ziegelei",wikidata,,Q15782755,way
-Altkönigstraße,wikidata,,Q442204,way
-"Am Klostergarten",wikidata,,Q320189,way
-"An den Römersteinen",wikidata,,Q896423,way
-"An der Schanze",wikidata,,Q91203,way
-Aspeltstraße,wikidata,,Q27585987,way
-"Athener Allee",wikidata,,Q1524,way
-Augustinerstraße,wikidata,,Q29075,way
-Bacchusstraße,wikidata,,Q645312,way
-Backhaushohl,wikidata,,Q798436,way
-Bahnstraße,wikidata,,Q3565868,way
-Barcelona-Allee,wikidata,,Q1492,way
-"Beuthener Straße",wikidata,,Q102350,way
-"Bretzenheimer Straße",wikidata,,Q1885689,way
-Brezelweg,wikidata,,Q160525,way
-Buchenweg,wikidata,,Q25403,way
-Colmarstraße,wikidata,,Q27604665,way
-Cranachweg,wikidata,,Q56538064,way
-Curiestraße,wikidata,,Q11297474,way
-Deutschhausplatz,wikidata,,Q530788,way
-"Draiser Straße",wikidata,,Q883326,way
-Drechslerweg,wikidata,,Q1716419,way
-Eindhoven-Allee,wikidata,,Q9832,way
-Elsterweg,wikidata,,Q25307,way
-Emausweg,wikidata,,Q165887,way
-"Essenheimer Straße",wikidata,,Q572400,way
-Färberweg,wikidata,,Q6147194,way
-Feldbergplatz,wikidata,,Q677873,way
-Feldbergstraße,wikidata,,Q677873,way
-Fischtorplatz,wikidata,,Q1420456,way
-Florenz-Allee,wikidata,,Q2044,way
-"Genfer Allee",wikidata,,Q71,way
-Geschwister-Heinefetter-Platz,wikidata,,Q56827157,way
-Geschwister-Scholl-Straße,wikidata,,Q566212;Q76972;Q57820,way
-"Gleiwitzer Straße",wikidata,,Q105084,way
-"Große Bleiche",wikidata,,Q98525431,way
-Gürtlerstraße,wikidata,,Q17305604,way
-Haifa-Allee,wikidata,,Q41621,way
-Haydnstraße,wikidata,,Q16211552,way
-"Hechtsheimer Straße",wikidata,,Q1560735,way
-"Hintere Bleiche",wikidata,,Q98525431,way
-Ignazgäßchen,wikidata,,Q879179,way
-Jupiterweg,wikidata,,Q4649,way
-Kapuzinerstraße,wikidata,,Q107762174,way
-Karmeliterplatz,wikidata,,Q3585896,way
-Karmeliterstraße,wikidata,,Q3585896,way
-Kartäuserstraße,wikidata,,Q2961255,way
-"Klein-Winternheimer Straße",wikidata,,Q630978,way
-"Königshütter Straße",wikidata,,Q104302,way
-Küferweg,wikidata,,Q38883,way
-Lahnstraße,wikidata,,Q103148,way
-Landwehrweg,wikidata,,Q749151,way
-"Liegnitzer Straße",wikidata,,Q106274,way
-Mainstraße,wikidata,,Q1670,way
-"Marienborner Straße",wikidata,,Q1682363,way
-Merkurweg,wikidata,,Q308,way
-"Mittlere Bleiche",wikidata,,Q98525431,way
-Nahestraße,wikidata,,Q168696,way
-Neckarstraße,wikidata,,Q1673,way
-Neubrunnenstraße,wikidata,,Q1662651,way
-"Obere Zahlbacher Straße",wikidata,,Q140605,way
-Oderstraße,wikidata,,Q552,way
-"Oppelner Straße",wikidata,,Q92212,way
-"Oppenheimer Straße",wikidata,,Q518690,way
-"Platz der Mainzer Republik",wikidata,,Q706691,way
-Plesserstraße,wikidata,,Q948304,way
-Rathausstraße,wikidata,,Q543654,way
-Rheinallee,wikidata,,Q584,way
-Rheinhessenstraße,wikidata,,Q707297,way
-Rheinstraße,wikidata,,Q584,way
-Rosmerthastraße,wikidata,,Q1118976,way
-Sattlerweg,wikidata,,Q1760988,way
-"Schlesische Straße",wikidata,,Q81720,way
-Schülerpfad,wikidata,,Q48942,way
-"Schweidnitzer Straße",wikidata,,Q387396,way
-Taunusstraße,wikidata,,Q158884,way
-Templergasse,wikidata,,Q41300,way
-Templerstraße,wikidata,,Q41300,way
-Uferstraße,wikidata,,Q468756,way
-Vierzehn-Nothelfer-Straße,wikidata,,Q219014,way
-Weichselstraße,wikidata,,Q548,way
-"Wormser Straße",wikidata,,Q3852,way
-"Zahlbacher Steig",wikidata,,Q140605,way
-Zedernweg,wikidata,,Q128550,way
-Ziegeleipfad,wikidata,,Q15782755,way
 "117er Ehrenhof",,,,way
 Abtsgasse,,,,way
 Acker,,,,way
@@ -94,7 +9,6 @@ Adolf-Ernst-Schuth-Straße,,,,way
 Aenne-Ludwig-Straße,,,,way
 "Agentur für Arbeit / Katholische Hochschule",,,,way
 Ahornstraße,,,,way
-Akademieweg,,,,way
 Akazienweg,,,,way
 Albert-Knoll-Straße,,,,way
 Alexander-Diehl-Straße,,,,way
@@ -351,14 +265,12 @@ Bechbornschneise,,,,way
 Berghofstraße,,,,way
 Bergstraße,,,,way
 Bergweg,,,,way
-"Berliner Straße",,,,way
 Bernhard-Winter-Straße,,,,way
 Bettelpfad,,,,way
 Betty-Winterfeld-Straße,,,,way
 Betzelsstraße,,,,way
 Bierothstraße,,,,way
 "Binger Straße",,,,way
-Bingerstr.,,,,way
 Birkenstraße,,,,way
 "Bischheimer Weg",,,,way
 Bischofsplatz,,,,way
@@ -386,7 +298,6 @@ Burgstraße,,,,way
 Burgunderweg,,,,way
 Calaisstraße,,,,way
 Cambridgestraße,,,,way
-Catharina-Lothary-Straße,,,,way
 Chattenstraße,,,,way
 Chausseehaus,,,,way
 Christian-Haas-Weg,,,,way
@@ -444,7 +355,7 @@ Erich-Koch-Höhenweg,,,,way
 Erlenweg,,,,way
 Eschenweg,,,,way
 "Eupener Straße",,,,way
-Europaplatz,,,,way
+Europaplatz,,,,relation
 Faberrebenweg,,,,way
 Falkensteinerstraße,,,,way
 Fanny-de-la-Roche-Weg,,,,way
@@ -793,7 +704,7 @@ Mühlenstraße,,,,way
 Mühlgasse,,,,way
 Mühltalstraße,,,,way
 Mühlweg,,,,way
-Münsterplatz,,,,way
+Münsterplatz,,,,relation+way
 Münsterstraße,,,,way
 Nachtigallenweg,,,,way
 "Nackenheimer Straße",,,,way
@@ -828,11 +739,10 @@ Odenwaldstraße,,,,way
 Oranienschneise,,,,way
 Oranienstraße,,,,way
 Orchideenweg,,,,way
-Ottl-Beck-Kreisel,,,,way
+Otto-Beck-Kreisel,,,,way
 Palmenstraße,,,,way
 Palmenweg,,,,way
 Pappelstraße,,,,way
-"Pariser Straße",,,,way
 Parkstraße,,,,way
 Paul-Kanisch-Straße,,,,way
 Peter-Hofmann-Straße,,,,way
@@ -910,7 +820,6 @@ Ruländerstraße,,,,way
 "Rüsselsheimer Allee",,,,way
 Saalestraße,,,,way
 Saarstraße,,,,way
-Sackgäßchen,,,,way
 Salmengäßchen,,,,way
 Sandmühlweg,,,,way
 Sandveilchenweg,,,,way
@@ -1029,7 +938,6 @@ Weingartenstraße,,,,way
 Weinstraße,,,,way
 Weintorstraße,,,,way
 "Weisenauer Straße",,,,way
-"Weisenauer Synagoge",,,,way
 "Weisenauer Weg",,,,way
 Weißliliengasse,,,,way
 Welschnonnengasse,,,,way
@@ -1051,7 +959,6 @@ Willi-Wolf-Straße,,,,way
 Windmühlenstraße,,,,way
 Wingertsweg,,,,way
 Winkelgasse,,,,way
-Winkelgäßchen,,,,way
 Wolfsgäßchen,,,,way
 Yilmaz-Atalay-Ufer,,,,way
 ZDF-Straße,,,,way
@@ -1066,6 +973,7 @@ Zitadellengraben,,,,way
 Zitadellenweg,,,,way
 Zollgasse,,,,way
 "Zornheimer Straße",,,,way
+"Zugang Cityport",,,,way
 Zukunftstraße,,,,way
 "Zum Knechelsberg",,,,way
 "Zum Schiersteiner Grund",,,,way
