@@ -41,7 +41,7 @@ Geschwister-Scholl-Straße,wikidata,-,Q566212;Q76972;Q57820,way
 Gürtlerstraße,wikidata,-,Q17305604,way
 Haifa-Allee,wikidata,-,Q41621,way
 Haydnstraße,wikidata,-,Q16211552,way
-"Hechtsheimer Straße",wikidata,-,Q1560735,way
+"Hechtsheimer Straße",wikidata,-,Q1560735,relation+way
 "Hintere Bleiche",wikidata,-,Q98525431,way
 Ignazgäßchen,wikidata,-,Q879179,way
 Jupiterweg,wikidata,-,Q4649,way
@@ -71,9 +71,10 @@ Oderstraße,wikidata,-,Q552,way
 Plesserstraße,wikidata,-,Q948304,way
 Rathausstraße,wikidata,-,Q543654,way
 Rheinallee,wikidata,-,Q584,way
-Rheinhessenstraße,wikidata,-,Q707297,way
+Rheinhessenstraße,wikidata,-,Q707297,relation+way
 Rheinstraße,wikidata,-,Q584,way
 Rosmerthastraße,wikidata,-,Q1118976,way
+Saarstraße,wikidata,-,Q153972,relation+way
 Sattlerweg,wikidata,-,Q1760988,way
 "Schlesische Straße",wikidata,-,Q81720,way
 Schülerpfad,wikidata,-,Q48942,way
@@ -99,7 +100,6 @@ Anni-Eisler-Lehmann-Straße,wikidata,F,Q60841306,way
 Bilhildisstraße,wikidata,F,Q477895,way
 Catharina-Lothary-Straße,wikidata,F,Q107557482,way
 Chana-Kahn-Straße,wikidata,F,Q104807517,way
-Clarissa-Kupferberg-Platz,wikidata,F,Q94761307,way
 Eleonorenstraße,wikidata,F,Q62549,way
 Elisabeth-Langgässer-Straße,wikidata,F,Q68501,way
 Elisabeth-Schwarzhaupt-Straße,wikidata,F,Q65397,way
@@ -199,7 +199,7 @@ Carl-Benz-Straße,wikidata,M,Q40224,way
 Carl-Diem-Straße,wikidata,M,Q71850,way
 Carl-Goerdeler-Straße,wikidata,M,Q57430,way
 Carl-Orff-Straße,wikidata,M,Q44086,way
-Carl-Zeiss-Straße,wikidata,M,Q76833,way
+Carl-Zeiss-Straße,wikidata,M,Q76833,relation+way
 Carl-Zuckmayer-Straße,wikidata,M,Q76820,way
 Carl-von-Linde-Straße,wikidata,M,Q61864,way
 Carl-von-Linné-Weg,wikidata,M,Q1043,way
@@ -253,7 +253,7 @@ Fliednerstraße,wikidata,M,Q77814,way
 Florian-Geyer-Straße,wikidata,M,Q77407,way
 Fontanestraße,wikidata,M,Q76632,way
 Forsterstraße,wikidata,M,Q58062,way
-Franz-Anton-Hermann-Straße,wikidata,M,Q55875745,way
+Franz-Anton-Hermann-Straße,wikidata,M,Q55875745;Q76439,way
 Franz-Liszt-Straße,wikidata,M,Q41309,way
 Franz-Werfel-Straße,wikidata,M,Q78514,way
 Frauenlobplatz,wikidata,M,Q62702,way
@@ -357,7 +357,7 @@ Kafkaweg,wikidata,M,Q905,way
 Kaiser-Friedrich-Straße,wikidata,M,Q58600,way
 Kaiser-Karl-Ring,wikidata,M,Q3044,way
 Kaiser-Wilhelm-Ring,wikidata,M,Q2677,way
-Kaiserstraße,wikidata,M,Q150652,way
+Kaiserstraße,wikidata,M,Q150652,relation+way
 Kantstraße,wikidata,M,Q9312,way
 Kardinal-von-Galen-Straße,wikidata,M,Q76439,way
 Karl-Zörgiebel-Straße,wikidata,M,Q98104,way
@@ -365,7 +365,7 @@ Karl-von-Goebel-Weg,wikidata,M,Q62756,way
 Karlsstraße,wikidata,M,Q84201,way
 Kerschensteinerstraße,wikidata,M,Q61195,way
 Kettelerstraße,wikidata,M,Q626805,way
-Kilianweg,wikidata,M,Q40513,way
+Killianweg,wikidata,M,Q40513,way
 Kirsteinstraße,wikidata,M,Q897295,way
 Kleiststraße,wikidata,M,Q28494,way
 König-Konrad-Straße,wikidata,M,Q157133,way
@@ -400,7 +400,7 @@ Ludwig-Erhard-Straße,wikidata,M,Q2496,way
 Ludwig-Richter-Straße,wikidata,M,Q551896,way
 Ludwig-Schwamb-Straße,wikidata,M,Q104979,way
 Ludwig-Strecker-Straße,wikidata,M,Q1875078,way
-Ludwigsstraße,wikidata,M,Q213527,way
+Ludwigsstraße,wikidata,M,Q213527,relation+way
 Maler-Becker-Straße,wikidata,M,Q111052,way
 Manfred-von-Richthofen-Straße,wikidata,M,Q4701,way
 Marc-Chagall-Straße,wikidata,M,Q93284,way

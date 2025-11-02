@@ -302,6 +302,7 @@ Chattenstraße,,,,way
 Chausseehaus,,,,way
 Christian-Haas-Weg,,,,way
 Christian-Lechleitner-Straße,,,,way
+Clarissa-Kupferberg-Platz,,,,way
 Dahlienweg,,,,way
 "Dalheimer Straße",,,,way
 "Dalheimer Weg",,,,way
@@ -339,7 +340,7 @@ Eibenweg,,,,way
 Eichelsteinstraße,,,,way
 Eichenweg,,,,way
 "Eisenacher Straße",,,,way
-Eisgrubweg,,,,way
+Eisgrubweg,,,,relation
 Elbestraße,,,,way
 Elisabethenstraße,,,,way
 Ellenbogenstraße,,,,way
@@ -660,6 +661,7 @@ Ludwig-Nauth-Straße,,,,way
 Ludwigsschneise,,,,way
 Maiglöckchenweg,,,,way
 Mailandsgasse,,,,way
+"Mainzer Sand Militärweg",,,,way
 "Mainzer Straße",,,,way
 "Malakoff Passage",,,,way
 Malakoff-Terrasse,,,,way
@@ -739,7 +741,7 @@ Odenwaldstraße,,,,way
 Oranienschneise,,,,way
 Oranienstraße,,,,way
 Orchideenweg,,,,way
-Otto-Beck-Kreisel,,,,way
+Ottl-Beck-Kreisel,,,,way
 Palmenstraße,,,,way
 Palmenweg,,,,way
 Pappelstraße,,,,way
@@ -819,7 +821,6 @@ Ruhestraße,,,,way
 Ruländerstraße,,,,way
 "Rüsselsheimer Allee",,,,way
 Saalestraße,,,,way
-Saarstraße,,,,way
 Salmengäßchen,,,,way
 Sandmühlweg,,,,way
 Sandveilchenweg,,,,way
@@ -900,7 +901,6 @@ Turnerstraße,,,,way
 Uhlerbornstraße,,,,way
 Ulmenstraße,,,,way
 Umbach,,,,way
-Universität,,,,way
 Universitätsstraße,,,,way
 Unterdorfstraße,,,,way
 "Untere Bogenstraße",,,,way
@@ -958,9 +958,8 @@ Wilhelm-Theodor-Römheld-Straße,,,,way
 Willi-Wolf-Straße,,,,way
 Windmühlenstraße,,,,way
 Wingertsweg,,,,way
-Winkelgasse,,,,way
 Wolfsgäßchen,,,,way
-Yilmaz-Atalay-Ufer,,,,way
+Yılmaz-Atalay-Ufer,,,,way
 ZDF-Straße,,,,way
 Zanggasse,,,,way
 Zaybachstraße,,,,way
@@ -973,7 +972,6 @@ Zitadellengraben,,,,way
 Zitadellenweg,,,,way
 Zollgasse,,,,way
 "Zornheimer Straße",,,,way
-"Zugang Cityport",,,,way
 Zukunftstraße,,,,way
 "Zum Knechelsberg",,,,way
 "Zum Schiersteiner Grund",,,,way
