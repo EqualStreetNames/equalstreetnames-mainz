@@ -24,7 +24,7 @@ Curiestraße,wikidata,-,Q11297474,way
 Deutschhausplatz,wikidata,-,Q530788,way
 "Draiser Straße",wikidata,-,Q883326,way
 Drechslerweg,wikidata,-,Q1716419,way
-Eindhoven-Allee,wikidata,-,Q9832,way
+Eindhoven-Allee,wikidata,-,Q1492;Q9832,way
 Elsterweg,wikidata,-,Q25307,way
 Emausweg,wikidata,-,Q165887,way
 "Essenheimer Straße",wikidata,-,Q572400,way
@@ -82,6 +82,7 @@ Schülerpfad,wikidata,-,Q48942,way
 Taunusstraße,wikidata,-,Q158884,way
 Templergasse,wikidata,-,Q41300,way
 Templerstraße,wikidata,-,Q41300,way
+Tritonplatz,wikidata,-,Q148030,way
 Uferstraße,wikidata,-,Q468756,way
 Vierzehn-Nothelfer-Straße,wikidata,-,Q219014,way
 Weichselstraße,wikidata,-,Q548,way
@@ -100,6 +101,7 @@ Anni-Eisler-Lehmann-Straße,wikidata,F,Q60841306,way
 Bilhildisstraße,wikidata,F,Q477895,way
 Catharina-Lothary-Straße,wikidata,F,Q107557482,way
 Chana-Kahn-Straße,wikidata,F,Q104807517,way
+Dr.-Maria-Hopf-Straße,wikidata,F,Q56868059,way
 Eleonorenstraße,wikidata,F,Q62549,way
 Elisabeth-Langgässer-Straße,wikidata,F,Q68501,way
 Elisabeth-Schwarzhaupt-Straße,wikidata,F,Q65397,way
@@ -131,6 +133,7 @@ Maria-Ward-Straße,wikidata,F,Q291061,way
 Marie-Juchacz-Straße,wikidata,F,Q85820,way
 Marienstraße,wikidata,F,Q345,way
 Mathildenstraße,wikidata,F,Q60796,way
+Münsterplatz,wikidata,F,Q477895,relation+way
 Nelly-Sachs-Straße,wikidata,F,Q57074,way
 Ottiliengasse,wikidata,F,Q269867,way
 Ricarda-Huch-Straße,wikidata,F,Q60785,way
@@ -302,6 +305,7 @@ Händelstraße,wikidata,M,Q7302,way
 Hanns-Dieter-Hüsch-Weg,wikidata,M,Q92025,way
 Hans-Böckler-Straße,wikidata,M,Q105130,way
 Hans-Klenk-Straße,wikidata,M,Q18020684,way
+Hans-Zöller-Straße,wikidata,M,Q136757991,way
 Hebbelstraße,wikidata,M,Q57182,way
 Heckerstraße,wikidata,M,Q216025,way
 Hegelstraße,wikidata,M,Q9235,way
@@ -462,6 +466,7 @@ Raiffeisenstraße,wikidata,M,Q45141,way
 Raimundistraße,wikidata,M,Q454789,way
 Rathenaustraße,wikidata,M,Q135645,way
 Regerstraße,wikidata,M,Q57139,way
+Reisingerweg,wikidata,M,Q60841457,way
 Rembrandtstraße,wikidata,M,Q5598,way
 Rhabanusstraße,wikidata,M,Q160441,way
 Richard-Schirrmann-Straße,wikidata,M,Q63862,way
@@ -558,4 +563,5 @@ Wöhlerstraße,wikidata,M,Q58575,way
 Wolfgang-Brobeil-Straße,wikidata,M,Q24262993,way
 Woynastraße,wikidata,M,Q16112805,way
 Xaveriusweg,wikidata,M,Q163900,way
+Yılmaz-Atalay-Ufer,wikidata,M,Q136615307,way
 Zeppelinstraße,wikidata,M,Q75780,way
