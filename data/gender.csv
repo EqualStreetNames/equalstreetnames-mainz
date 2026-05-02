@@ -55,10 +55,12 @@ Küferweg,wikidata,-,Q38883,way
 Lahnstraße,wikidata,-,Q103148,way
 Landwehrweg,wikidata,-,Q749151,way
 "Liegnitzer Straße",wikidata,-,Q106274,way
+"Ludwigsburger Straße",wikidata,-,Q622,way
 Mainstraße,wikidata,-,Q1670,way
 "Marienborner Straße",wikidata,-,Q1682363,way
 Merkurweg,wikidata,-,Q308,way
 "Mittlere Bleiche",wikidata,-,Q98525431,way
+"Mombacher Straße",wikidata,-,Q317819,way
 Nahestraße,wikidata,-,Q168696,way
 Neckarstraße,wikidata,-,Q1673,way
 Neubrunnenstraße,wikidata,-,Q1662651,way
@@ -122,6 +124,7 @@ Irène-Giron-Platz,wikidata,F,Q94761431,relation
 Käthe-Kollwitz-Straße,wikidata,F,Q142472,way
 Kathinka-Zitz-Weg,wikidata,F,Q110567,way
 Klarastraße,wikidata,F,Q191107,way
+Lina-Bucksath-Straße,wikidata,F,Q138983496,way
 Lise-Meitner-Straße,wikidata,F,Q56189,way
 "Lucy-Hillebrand Straße",wikidata,F,Q112007,way
 Lucy-Hillebrand-Straße,wikidata,F,Q112007,way
@@ -149,12 +152,14 @@ Adam-Riese-Straße,wikidata,M,Q61740,way
 Adam-Stegerwald-Straße,wikidata,M,Q63434,way
 Adelungstraße,wikidata,M,Q110917,way
 Adenauer-Ufer,wikidata,M,Q2492,relation+way
+Adolf-Ernst-Schuth-Straße,wikidata,M,Q139071310,way
 Adolf-Gerhard-Straße,wikidata,M,Q56062028,way
 Adolf-Kolping-Straße,wikidata,M,Q15448837,way
 Agrippastraße,wikidata,M,Q48174,way
 Albanstraße,wikidata,M,Q686948,way
 Albanusstraße,wikidata,M,Q686948,way
 Albert-Einstein-Straße,wikidata,M,Q937,way
+Albert-Knoll-Straße,wikidata,M,Q139071278,way
 Albert-Schweitzer-Straße,wikidata,M,Q49325,way
 Albert-Stohr-Straße,wikidata,M,Q69039,way
 Albinistraße,wikidata,M,Q4063392,way
@@ -186,6 +191,7 @@ Barbarossastraße,wikidata,M,Q79789,way
 Bebelstraße,wikidata,M,Q76520,way
 Beethovenstraße,wikidata,M,Q255,way
 Benjamin-Franklin-Straße,wikidata,M,Q34969,way
+Bernhard-Winter-Straße,wikidata,M,Q139071254,way
 Bert-Brecht-Straße,wikidata,M,Q38757,way
 Bismarckplatz,wikidata,M,Q8442,relation+way
 Bodelschwinghstraße,wikidata,M,Q87306,way
@@ -256,6 +262,7 @@ Florian-Geyer-Straße,wikidata,M,Q77407,way
 Fontanestraße,wikidata,M,Q76632,way
 Forsterstraße,wikidata,M,Q58062,way
 Franz-Anton-Hermann-Straße,wikidata,M,Q55875745;Q76439,way
+Franz-August-Becker-Straße,wikidata,M,Q139071461,way
 Franz-Liszt-Straße,wikidata,M,Q41309,way
 Franz-Werfel-Straße,wikidata,M,Q78514,way
 Frauenlobplatz,wikidata,M,Q62702,way
@@ -414,6 +421,7 @@ Martinsstraße,wikidata,M,Q133704,way
 Mauritzenplatz,wikidata,M,Q316599,way
 Max-Born-Straße,wikidata,M,Q58978,way
 Max-Planck-Straße,wikidata,M,Q9021,way
+Meixlerstraße,wikidata,M,Q139071204,way
 Menzelstraße,wikidata,M,Q164961,way
 Möldersstraße,wikidata,M,Q58641,way
 Moltkestraße,wikidata,M,Q44205,way
