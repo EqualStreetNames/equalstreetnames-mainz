@@ -30,6 +30,7 @@ Altmünsterstraße,,,,way
 "Am Alten Wasserwerk",,,,way
 "Am Alten Weg",,,,way
 "Am Bangert",,,,way
+"Am Bergweg",,,,relation
 "Am Bornberg",,,,way
 "Am Borner Weg",,,,way
 "Am Bornwald",,,,way
@@ -37,6 +38,7 @@ Altmünsterstraße,,,,way
 "Am Dalheimer Kloster",,,,way
 "Am Damsberg",,,,way
 "Am Draisberg",,,,way
+"Am Draiser Kreuz",,,,relation
 "Am Edelmann",,,,way
 "Am Eiskeller",,,,way
 "Am Elmerberg",,,,way
@@ -72,7 +74,7 @@ Altmünsterstraße,,,,way
 "Am Haidenkeller",,,,way
 "Am Hang",,,,way
 "Am Hechenberg",,,,way
-"Am Heckerpfad",,,,way
+"Am Heckerpfad",,,,relation+way
 "Am Heiligenhaus",,,,way
 "Am Hemel",,,,way
 "Am Hessendenkmal",,,,way
@@ -127,6 +129,7 @@ Altmünsterstraße,,,,way
 "Am Rübenacker",,,,way
 "Am Sägewerk",,,,way
 "Am Sandbruch",,,,way
+"Am Schaftriebsweg",,,,relation
 "Am Schinnergraben",,,,way
 "Am Schleifweg",,,,way
 "Am Schottenhof",,,,way
@@ -183,7 +186,7 @@ Amselweg,,,,way
 "An der Bruchspitze",,,,way
 "An der Brunnenstube",,,,way
 "An der Dreispitz",,,,way
-"An der Fahrt",,,,way
+"An der Fahrt",,,,relation+way
 "An der Favorite",,,,way
 "An der Feilkirsch",,,,way
 "An der Finnensiedlung",,,,way
@@ -219,7 +222,6 @@ Amselweg,,,,way
 "An der Wieslücke",,,,way
 "An der Wildbachbrücke",,,,way
 Anemonenweg,,,,way
-Angelrechweg,,,,way
 "Anlegestelle D, Köln-Düsseldorfer, Nähe Rheingoldhalle Congress Centrum und Rathaus",,,,way
 Anna-Stenner-Straße,,,,way
 Annabergstraße,,,,way
@@ -433,6 +435,7 @@ Großbergpark,,,,way
 Großgewann,,,,way
 "Grünberger Straße",,,,way
 "Grüne Brücke",,,,way
+Günter-Bley-Weg,,,,way
 "Gustavsburger Weg",,,,way
 Gymnasiumstraße,,,,way
 Hafenstraße,,,,way
@@ -497,6 +500,7 @@ Hummelweg,,,,way
 Hunsrückstraße,,,,way
 Huxelrebenweg,,,,way
 Illstraße,,,,way
+"Im Bergweg",,,,relation
 "Im Borner Grund",,,,way
 "Im Brühl",,,,way
 "Im Dertzfeld",,,,way
@@ -515,6 +519,7 @@ Illstraße,,,,way
 "Im Tiefental",,,,way
 "Im Winkel",,,,way
 "Im Zuckergarten",,,,way
+Imenhof,,,,way
 Immenhof,,,,way
 "In den Gärten",,,,way
 "In den Kläuern",,,,way
@@ -527,6 +532,7 @@ Immenhof,,,,way
 "In der Mainzer Pforte",,,,way
 "In der Meielache",,,,way
 "In der Plies",,,,way
+"In der Witz",,,,relation
 Industriestraße,,,,way
 Inselstraße,,,,way
 Jägerhofstraße,,,,way
@@ -604,12 +610,12 @@ Kornblumenweg,,,,way
 Kötherhofstraße,,,,way
 Krähenweg,,,,way
 Kretzerweg,,,,way
+Kreuzgang,,,,way
 Kreuzschanze,,,,way
 Kreuzstraße,,,,way
 Krokusweg,,,,way
 Kronenstraße,,,,way
 Kuhweg,,,,way
-Kupferbergterrasse,,,,way
 Kurfürstenstraße,,,,way
 Kurmainzstraße,,,,way
 Lachweg,,,,way
@@ -892,6 +898,7 @@ Uhlerbornstraße,,,,way
 Ulmenstraße,,,,way
 Umbach,,,,way
 Universitätsstraße,,,,way
+"Unter dem Großen Bleißberg",,,,relation
 Unterdorfstraße,,,,way
 "Untere Bogenstraße",,,,way
 "Untere Ingelheimstraße",,,,way
